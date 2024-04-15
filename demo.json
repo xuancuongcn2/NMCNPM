@@ -20,66 +20,6 @@
         "subformat_details": "LNCS, 14 pages regular, 7 pages short, both excluding references; 4 pages work in progress"
     },
     {
-        "name": "HALG",
-        "conference_link": "https://halg2024.ideas-ncbr.pl/",
-        "description": "Highlights of Algorithms",
-        "location": "Warsaw, Poland",
-        "deadline": "11 April 2024",
-        "date": "3-5 June 2024",
-        "notification": "",
-        "subformat_details": ""
-    },
-    {
-        "name": "DCFS",
-        "conference_link": "https://sites.google.com/scu.edu/dcfs24/",
-        "description": "Descriptional Complexity of Formal Systems",
-        "location": "Santa Clara, California, USA",
-        "deadline": "12 April 2024",
-        "date": "25-27 June 2024",
-        "notification": "26 April 2024",
-        "subformat_details": "LNCS, 12 pages"
-    },
-    {
-        "name": "AUTOMATA",
-        "conference_link": "https://automata2024.webspace.durham.ac.uk/",
-        "description": "Cellular Automata and Discrete Complex Systems",
-        "location": "Durham, United Kingdom",
-        "deadline": "12 April 2024",
-        "date": "22-24 July 2024",
-        "notification": "3 May 2024",
-        "subformat_details": "LNCS, 12 pages full, 8 pages exploratory, 4 pages extended abstracts"
-    },
-    {
-        "name": "CILC",
-        "conference_link": "https://cilc2024.github.io/",
-        "description": "Italian Conference on Computational Logic",
-        "location": "Rome, Italy",
-        "deadline": "12 April 2024",
-        "date": "26-28 June 2024",
-        "notification": "22 May 2024",
-        "subformat_details": "CEURART, 15 pages full, 8 pages short"
-    },
-    {
-        "name": "SC2",
-        "conference_link": "http://www.sc-square.org/CSA/workshop9.html",
-        "description": "Satisfiability Checking and Symbolic Computation",
-        "location": "Nancy, France",
-        "deadline": "12 April 20243 May 2024",
-        "date": "2 July 2024",
-        "notification": "17 May 2024",
-        "subformat_details": "CEUR-WG, 16 pages full, 4 pages extended abstracts, both excluding references, 2 pages presentation only; second deadline for ISSAC Fast-Track; co-located with IJCAR"
-    },
-    {
-        "name": "CCS",
-        "conference_link": "https://www.sigsac.org/ccs/CCS2024/",
-        "description": "Computer and Communication Security",
-        "location": "Salt Lake City, Utah, USA",
-        "deadline": "14 April 2024",
-        "date": "14-18 October 2024",
-        "notification": "",
-        "subformat_details": "ACM, 12 pages excluding references"
-    },
-    {
         "name": "SmartData",
         "conference_link": "https://ieee-cybermatics.org/2024/smartdata/",
         "description": "Smart Data",
@@ -88,16 +28,6 @@
         "date": "19-22 August 2024",
         "notification": "20 May 2024",
         "subformat_details": "IEEE Transactions, 8 pages regular, 6 pages workshop"
-    },
-    {
-        "name": "WADT",
-        "conference_link": "https://conf.researchr.org/home/wadt-2024",
-        "description": "Workshop on Algebraic Development Techniques",
-        "location": "Enschede, The Netherlands",
-        "deadline": "15 April 2024",
-        "date": "during STAF",
-        "notification": "29 April 2024",
-        "subformat_details": "post-proceedings"
     },
     {
         "name": "FM",
@@ -190,6 +120,16 @@
         "subformat_details": "CEURART, 15 pages regular, 8 pages extended abstracts; co-located with IJCAR"
     },
     {
+        "name": "SC2",
+        "conference_link": "http://www.sc-square.org/CSA/workshop9.html",
+        "description": "Satisfiability Checking and Symbolic Computation",
+        "location": "Nancy, France",
+        "deadline": "19 April 20243 May 2024",
+        "date": "2 July 2024",
+        "notification": "17 May 2024",
+        "subformat_details": "CEUR-WG, 16 pages full, 4 pages extended abstracts, both excluding references, 2 pages presentation only; second deadline for ISSAC Fast-Track; co-located with IJCAR"
+    },
+    {
         "name": "ESA",
         "conference_link": "https://algo-conference.org/2024/esa/",
         "description": "European Symposium on Algorithms",
@@ -198,6 +138,16 @@
         "date": "2-4 September 2024",
         "notification": "23 June 2024",
         "subformat_details": "LIPIcs, double-blind, 12 pages excluding front matter and references; part of ALGO"
+    },
+    {
+        "name": "WADT",
+        "conference_link": "https://conf.researchr.org/home/wadt-2024",
+        "description": "Workshop on Algebraic Development Techniques",
+        "location": "Enschede, The Netherlands",
+        "deadline": "22 April 202416 September 2024",
+        "date": "during STAF",
+        "notification": "29 April 202425 November 2024",
+        "subformat_details": "second dates for post-proceedings"
     },
     {
         "name": "LOD",
@@ -250,6 +200,16 @@
         "subformat_details": "LIPIcs, 12 pages excluding references"
     },
     {
+        "name": "CILC",
+        "conference_link": "https://cilc2024.github.io/",
+        "description": "Italian Conference on Computational Logic",
+        "location": "Rome, Italy",
+        "deadline": "26 April 2024",
+        "date": "26-28 June 2024",
+        "notification": "22 May 2024",
+        "subformat_details": "CEURART, 15 pages full, 8 pages short"
+    },
+    {
         "name": "FMCAD",
         "conference_link": "https://fmcad.org/FMCAD24/",
         "description": "Formal Methods in Computer-Aided Design",
@@ -258,6 +218,16 @@
         "date": "14-18 October 2024",
         "notification": "8 July 2024",
         "subformat_details": "own format, 8 pages long, 4 pages short, both excluding references"
+    },
+    {
+        "name": "CCS",
+        "conference_link": "https://www.sigsac.org/ccs/CCS2024/",
+        "description": "Computer and Communication Security",
+        "location": "Salt Lake City, Utah, USA",
+        "deadline": "29 April 2024",
+        "date": "14-18 October 2024",
+        "notification": "",
+        "subformat_details": "ACM, 12 pages excluding references"
     },
     {
         "name": "ICLP",
@@ -478,6 +448,16 @@
         "date": "4-8 November 2024",
         "notification": "15 August 2024",
         "subformat_details": "LNCS, 16 pages excludinge references regular, 8 pages tool"
+    },
+    {
+        "name": "MLCS",
+        "conference_link": "https://mlcs.lasige.di.fc.ul.pt/",
+        "description": "Machine Learning for Cybersecurity",
+        "location": "Vilnius, Lithuania",
+        "deadline": "15 June 2024",
+        "date": "9-13 September 2024",
+        "notification": "15 July 2024",
+        "subformat_details": "LNCS, 16 pages regular, 6 pages short"
     },
     {
         "name": "WISE",

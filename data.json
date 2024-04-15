@@ -1,0 +1,3334 @@
+[
+    {
+        "conference_name": "2024 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 March 2024",
+        "end_date": "6 March 2024",
+        "address": "Edinburgh, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.953252%2C-3.188267&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://hpca-conf.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 March 2024",
+        "end_date": "6 March 2024",
+        "address": "Edinburgh, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.953252%2C-3.188267&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/cgo-2024"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Pervasive Computing and Communications (PerCom)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "11 March 2024",
+        "end_date": "15 March 2024",
+        "address": "Biarritz, France",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.4831519%2C-1.558626&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.percom.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "11 March 2024",
+        "end_date": "15 March 2024",
+        "address": "Biarritz, France",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.4831519%2C-1.558626&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.percom.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "12 March 2024",
+        "end_date": "15 March 2024",
+        "address": "Rovaniemi, Finland",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=66.50394779999999%2C25.7293905&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/saner-2024"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Software Analysis, Evolution and Reengineering - Companion (SANER-C)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "12 March 2024",
+        "end_date": "12 March 2024",
+        "address": "Rovaniemi, Finland",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=66.50394779999999%2C25.7293905&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/saner-2024"
+    },
+    {
+        "conference_name": "2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 March 2024",
+        "end_date": "21 March 2024",
+        "address": "Orlando, Florida, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.5383832%2C-81.3789269&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeevr.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 March 2024",
+        "end_date": "21 March 2024",
+        "address": "Orlando, Florida, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.5383832%2C-81.3789269&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeevr.org/2024/"
+    },
+    {
+        "conference_name": "2024 9th International Conference on Big Data Analytics (ICBDA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "16 March 2024",
+        "end_date": "18 March 2024",
+        "address": "Tokyo, Japan (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Xian Jiaotong-Liverpool University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.6761919%2C139.6503106&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.icbda.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Southwest Symposium on Image Analysis and Interpretation (SSIAI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "17 March 2024",
+        "end_date": "19 March 2024",
+        "address": "Santa Fe, New Mexico, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.6869752%2C-105.937799&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://ssiai.org/"
+    },
+    {
+        "conference_name": "2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "25 March 2024",
+        "end_date": "27 March 2024",
+        "address": "Valencia, Spain",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Council on Electronic Design Automation",
+            "Association for Computing Machinery Special Interest Group on Design Automation - ACM SIGDA",
+            "European Design and Automation Association - EDAA",
+            "SEMI - Electronic System Design Alliance",
+            "IEEE Solid-State Circuits Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.46894%2C-0.37686&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.date-conference.com/"
+    },
+    {
+        "conference_name": "2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "9 April 2024",
+        "end_date": "11 April 2024",
+        "address": "Toronto, Ontario, Canada",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.653226%2C-79.3831843&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://satml.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 25th Latin American Test Symposium (LATS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "9 April 2024",
+        "end_date": "12 April 2024",
+        "address": "Maceio, Brazil",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Council on Electronic Design Automation",
+            "Universidade Federal Rio Grande do Sul"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-9.66648%2C-35.73495&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://lats.tttc-events.org/"
+    },
+    {
+        "conference_name": "2024 Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "12 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Dalian, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Beijing University of Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9139899%2C121.6147&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.acipec.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Software Engineering - ACM SIGSOFT",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/track/icse-2024/icse-2024-new-ideas-and-emerging-results"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 46th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 3rd International Conference on AI Engineering \u2013 Software Engineering for AI (CAIN)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/cain-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 17th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/chase-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 12th International Conference on Formal Methods in Software Engineering (FormaliSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/Formalise-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Conference on Technical Debt (TechDebt)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/TechDebt-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 11th International Conference on Mobile Software Engineering and Systems (MOBILESoft)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/mobilesoft-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 12th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/sesos-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Flaky Tests Workshop (FTW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/ftw-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop New Trends in Software Architecture (SATrends)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/satrends-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 8th International Workshop on Games and Software Engineering (GAS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sites.google.com/view/gas-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Search-Based and Fuzz Testing (SBFT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sbft24.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 April 2024",
+        "end_date": "14 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/forge-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Conference on Automation of Software Test (AST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/ast-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 32nd International Conference on Program Comprehension (ICPC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icpc-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 19th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/seams-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 21st International Conference on Mining Software Repositories (MSR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.msrconf.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 6th International Workshop on Robotics Software Engineering (RoSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://rose-workshops.github.io/rose2024/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Designing Software (Designing)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://designing2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 2nd International Workshop on Interpretability, Robustness, and Benchmarking in Neural Software Engineering (InteNSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://intense24.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 4th International Workshop on Engineering and Cybersecurity of Critical Systems and 2024 IEEE/ACM Second International Workshop on Software Vulnerability (EnCyCriS/SVM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 April 2024",
+        "end_date": "15 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/encycris-svm-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Genetic Improvement (GI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://geneticimprovementofsoftware.com/events/icse2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Software-Intensive Business (IWSiB)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://iwsib2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Workshop on Software Engineering Challenges in Financial Firms (FinanSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://finanse24.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Workshop on Multi-disciplinary, Open, and RElevant Requirements Engineering (MO2RE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://mo2re.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 5th International Workshop on Quantum Software Engineering (Q-SE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/q-se-2024#About"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Methodological Issues with Empirical Studies in Software Engineering (WSESE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.ese-workshops.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Responsible AI Engineering (RAIE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 April 2024",
+        "end_date": "16 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024/raie-2024"
+    },
+    {
+        "conference_name": "2024 IEEE Symposium in Low-Power and High-Speed Chips (COOL CHIPS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "17 April 2024",
+        "end_date": "19 April 2024",
+        "address": "Tokyo, Japan (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.6761919%2C139.6503106&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.coolchips.org/2024/"
+    },
+    {
+        "conference_name": "2024 9th International Conference on Intelligent Computing and Signal Processing (ICSP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "19 April 2024",
+        "end_date": "21 April 2024",
+        "address": "Xian, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Xi\u2019an University of Science and Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=30.40108%2C-92.70546&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://ic-icsp.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering (GEICSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Natural Language-Based Software Engineering (NLBSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 6th International Workshop on Software Engineering Research & Practices for the IoT (SERP4IoT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Automated Program Repair (APR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://llm4code.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM First IDE Workshop (IDE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Workshop on Explainability Engineering (ExEn)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 April 2024",
+        "end_date": "20 April 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGSOFT/SIGART/SIGPLAN",
+            "Faculty of Engineering of the University of Porto"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icse-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 42nd VLSI Test Symposium (VTS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "22 April 2024",
+        "end_date": "24 April 2024",
+        "address": "Tempe, Arizona, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Philadelphia Section"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=33.4255104%2C-111.9400054&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://tttc-vts.org/public_html/new/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 17th Pacific Visualization Conference (PacificVis)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 April 2024",
+        "end_date": "26 April 2024",
+        "address": "Tokyo, Japan",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.6761919%2C139.6503106&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://pvis.org/"
+    },
+    {
+        "conference_name": "2024 Sixth International Conference on Next Generation Data-driven Networks (NGDN)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "26 April 2024",
+        "end_date": "28 April 2024",
+        "address": "Shenyang, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Shenyang Aerospace University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=41.804778%2C123.432968&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.ngdn.net/"
+    },
+    {
+        "conference_name": "2024 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "29 April 2024",
+        "end_date": "1 May 2024",
+        "address": "Abu Dhabi, United Arab Emirates",
+        "sponsors": [
+            "IEEE Computer Society",
+            "University of Patras"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=24.453884%2C54.3773438&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.dcoss.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "1 May 2024",
+        "end_date": "3 May 2024",
+        "address": "Dallas, Texas, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=32.7766642%2C-96.79698789999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeemobility.org/MOST2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "5 May 2024",
+        "end_date": "7 May 2024",
+        "address": "Indianapolis, Indiana, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.768403%2C-86.158068&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://ispass.org/ispass2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "6 May 2024",
+        "end_date": "9 May 2024",
+        "address": "Tysons Corner, Virginia, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9187222%2C-77.2310925&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.hostsymposium.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 32nd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "6 May 2024",
+        "end_date": "9 May 2024",
+        "address": "Orlando, Florida, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.5383832%2C-81.3789269&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.fccm.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 8th International Conference on Fog and Edge Computing (ICFEC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "6 May 2024",
+        "end_date": "9 May 2024",
+        "address": "Philadelphia, Pennsylvania, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.9525839%2C-75.1652215&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icfec2024.ontariotechu.ca/"
+    },
+    {
+        "conference_name": "2024 International Conference on Intelligent Systems and Computer Vision (ISCV)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "8 May 2024",
+        "end_date": "10 May 2024",
+        "address": "Fez, Morocco (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Laboratoire d'Informatique",
+            "Scientific Association of Intelligent Systems (ASSI)"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.0181246%2C-5.0078451&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.iscvconf.com/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 9th International Conference on Smart Cloud (SmartCloud)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "10 May 2024",
+        "end_date": "12 May 2024",
+        "address": "NYC, New York, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71453%2C-74.00712&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cloud-conf.net/smartcloud/2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE 10th Conference on Big Data Security on Cloud (BigDataSecurity)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "10 May 2024",
+        "end_date": "12 May 2024",
+        "address": "NYC, New York, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71453%2C-74.00712&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.cloud-conf.net/datasec/2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE 10th IEEE International Conference on High Performance and Smart Computing (HPSC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "10 May 2024",
+        "end_date": "12 May 2024",
+        "address": "NYC, New York, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71453%2C-74.00712&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.cloud-conf.net/datasec/2024/hpsc/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE 10th International Conference on Intelligent Data and Security (IDS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "10 May 2024",
+        "end_date": "12 May 2024",
+        "address": "NYC, New York, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71453%2C-74.00712&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.cloud-conf.net/datasec/2024/ids/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "14 May 2024",
+        "address": "Philadelphia, Pennsylvania, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.9525839%2C-75.1652215&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cis.temple.edu/ccgrid2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 40th International Conference on Data Engineering (ICDE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Utrecht, Netherlands",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=52.09073739999999%2C5.1214201&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icde2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Ninth International Conference on Internet-of-Things Design and Implementation (IoTDI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Embedded Systems - ACM SIGBED"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conferences.computer.org/iotDI/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 30th Real-Time and Embedded Technology and Applications Symposium (RTAS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.rtas.org/"
+    },
+    {
+        "conference_name": "2024 ACM/IEEE 15th International Conference on Cyber-Physical Systems (ICCPS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Embedded Systems - ACM SIGBED"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://iccps.acm.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 40th International Conference on Data Engineering Workshops (ICDEW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Utrecht, Netherlands",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=52.09073739999999%2C5.1214201&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icde2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE 3rd Real-Time and Intelligent Edge Computing Workshop (RAGE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "13 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://rage-workshop.github.io/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "13 May 2024",
+        "end_date": "15 May 2024",
+        "address": "Hong Kong, Hong Kong (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://fmsys24.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE 3rd Workshop on Machine Learning on Edge in Sensor Systems (SenSys-ML)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sensysml.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE Coupling of Sensing & Computing in AIoT Systems (CSCAIoT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "13 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cps-iot-week2024.ie.cuhk.edu.hk/organizers.php#main"
+    },
+    {
+        "conference_name": "2024 IEEE Rapid Prototyping for Cyber-Physical Systems and IoT Applications with the Tock Embedded Operating System (RUSTIC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "13 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://tockos.org/CPS-IoT-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 4th Workshop on Data-Driven and Intelligent Cyber-Physical Systems for Smart Cities Workshop (DI-CPS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "13 May 2024",
+        "end_date": "13 May 2024",
+        "address": "Hong Kong, Hong Kong (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://di-cps.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE Workshop on Design Automation for CPS and IoT (DESTION)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "13 May 2024",
+        "end_date": "14 May 2024",
+        "address": "Hong Kong, Hong Kong (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cps-vo.org/group/DESTION2024"
+    },
+    {
+        "conference_name": "2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 May 2024",
+        "end_date": "16 May 2024",
+        "address": "Philadelphia, Pennsylvania, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.9525839%2C-75.1652215&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cis.temple.edu/ccgrid2024/"
+    },
+    {
+        "conference_name": "2024 IEEE Workshop on Crystal-Free/-Less Radio and System-Based Research for IoT (CrystalFreeIoT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 May 2024",
+        "end_date": "14 May 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://crystalfreeiot.hkust-gz.edu.cn/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Automation, Quality and Testing, Robotics (AQTR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 May 2024",
+        "end_date": "18 May 2024",
+        "address": "Cluj-Napoca, Romania",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Technical University of Cluj Napoca"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=46.7712101%2C23.6236353&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE Symposium on Security and Privacy (SP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 May 2024",
+        "end_date": "23 May 2024",
+        "address": "San Francisco, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.7749295%2C-122.4194155&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-security.org/TC/SP2024/"
+    },
+    {
+        "conference_name": "2024 IEEE European Test Symposium (ETS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 May 2024",
+        "end_date": "24 May 2024",
+        "address": "The Hague, Netherlands",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Council on Electronic Design Automation",
+            "Delft University of Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=52.08409%2C4.31732&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ets24.ewi.tudelft.nl/"
+    },
+    {
+        "conference_name": "2024 Annual Modeling and Simulation Conference (ANNSIM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 May 2024",
+        "end_date": "23 May 2024",
+        "address": "Washington, D.C., District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM",
+            "Society for Modeling and Simulation Int."
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.89037%2C-77.03196&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://scs.org/annsim/"
+    },
+    {
+        "conference_name": "2024 IEEE 27th International Symposium on Real-Time Distributed Computing (ISORC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "22 May 2024",
+        "end_date": "24 May 2024",
+        "address": "Tunis, Tunisia (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.8064948%2C10.1815316&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://isorc.github.io/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE Security and Privacy Workshops (SPW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 May 2024",
+        "end_date": "23 May 2024",
+        "address": "San Francisco, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.7749295%2C-122.4194155&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-security.org/TC/SP2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 May 2024",
+        "end_date": "31 May 2024",
+        "address": "San Francisco, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.7749295%2C-122.4194155&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ipdps.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Conference on Software Testing, Verification and Validation (ICST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 May 2024",
+        "end_date": "31 May 2024",
+        "address": "Toronto, Ontario, Canada",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.653226%2C-79.3831843&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icst-2024"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 May 2024",
+        "end_date": "31 May 2024",
+        "address": "Toronto, Ontario, Canada",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.653226%2C-79.3831843&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icst-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 18th International Conference on Automatic Face and Gesture Recognition (FG)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 May 2024",
+        "end_date": "31 May 2024",
+        "address": "Istanbul, Turkiye",
+        "sponsors": [
+            "IEEE Biometrics Council",
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=41.06201%2C28.98877&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://fg2024.ieee-biometrics.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 May 2024",
+        "end_date": "31 May 2024",
+        "address": "San Francisco, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.7749295%2C-122.4194155&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ipdps.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 54th International Symposium on Multiple-Valued Logic (ISMVL)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "28 May 2024",
+        "end_date": "30 May 2024",
+        "address": "Brno, Czech Republic (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=49.1950602%2C16.6068371&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.mvl.jpn.org/ISMVL2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 12th International Conference on Healthcare Informatics (ICHI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "3 June 2024",
+        "end_date": "6 June 2024",
+        "address": "Orlando, Florida, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Institute for Healthcare Informatics"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.5383832%2C-81.3789269&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeeichi2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE 21st International Conference on Software Architecture (ICSA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "4 June 2024",
+        "end_date": "8 June 2024",
+        "address": "Hyderabad, India",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=17.385044%2C78.486671&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icsa-conferences.org/series/"
+    },
+    {
+        "conference_name": "2024 IEEE 25th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "4 June 2024",
+        "end_date": "7 June 2024",
+        "address": "Perth, Australia",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Missouri University of Science & Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-31.9523123%2C115.861309&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.cse.unsw.edu.au/~wowmom/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "4 June 2024",
+        "end_date": "8 June 2024",
+        "address": "Hyderabad, India",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=17.385044%2C78.486671&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icsa-conferences.org/series/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACIS 24th International Conference on Computer and Information Science (ICIS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 June 2024",
+        "end_date": "9 June 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society",
+            "International Association for Computer & Information Science - ACIS"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://acisinternational.org/conferences/icis-2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 31st Symposium on Computer Arithmetic (ARITH)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "10 June 2024",
+        "end_date": "12 June 2024",
+        "address": "Malaga, Spain",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.7211784%2C-4.421719899999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://arith2024.arithsymposium.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 June 2024",
+        "end_date": "22 June 2024",
+        "address": "Seattle, Washington, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.6062095%2C-122.3320708&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cvpr.thecvf.com/"
+    },
+    {
+        "conference_name": "2024 Silicon Valley Cybersecurity Conference (SVCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "17 June 2024",
+        "end_date": "19 June 2024",
+        "address": "Seoul, Korea (South)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Silicon Valley Cybersecurity Institute"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.55886%2C126.99989&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.svcc-svcsi.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "17 June 2024",
+        "end_date": "18 June 2024",
+        "address": "Seattle, Washington, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.6062095%2C-122.3320708&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cvpr.thecvf.com/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 June 2024",
+        "end_date": "21 June 2024",
+        "address": "Wilmington, Delaware, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.744655%2C-75.5483909&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conferences.computer.org/chase2024/"
+    },
+    {
+        "conference_name": "2024 International Conference on Meta Computing (ICMC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 June 2024",
+        "end_date": "23 June 2024",
+        "address": "Qingdao, China",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Shandong University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.0662299%2C120.38299&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://meta-computing.info/index.html"
+    },
+    {
+        "conference_name": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 June 2024",
+        "end_date": "27 June 2024",
+        "address": "Brisbane, Australia",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IFIP WG 10.4"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-27.4704528%2C153.0260341&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://dsn.org/"
+    },
+    {
+        "conference_name": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 June 2024",
+        "end_date": "27 June 2024",
+        "address": "Brisbane, Australia",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IFIP WG 10.4"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-27.4704528%2C153.0260341&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://dsn.org/"
+    },
+    {
+        "conference_name": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 June 2024",
+        "end_date": "27 June 2024",
+        "address": "Brisbane, Australia",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IFIP WG 10.4"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-27.4704528%2C153.0260341&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://dsn.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 32nd International Requirements Engineering Conference (RE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 June 2024",
+        "end_date": "28 June 2024",
+        "address": "Reykjavik, Iceland",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Reykjavik University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=64.1469868%2C-21.9407552&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/RE-2024"
+    },
+    {
+        "conference_name": "2024 25th IEEE International Conference on Mobile Data Management (MDM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 June 2024",
+        "end_date": "27 June 2024",
+        "address": "Brussels, Belgium",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=50.84439%2C4.35609&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://mdmconferences.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 32nd International Requirements Engineering Conference Workshops (REW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 June 2024",
+        "end_date": "25 June 2024",
+        "address": "Reykjavik, Iceland",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Reykjavik University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=64.1469868%2C-21.9407552&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/RE-2024"
+    },
+    {
+        "conference_name": "2024 Tenth International Conference on eDemocracy & eGovernment (ICEDEG)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "24 June 2024",
+        "end_date": "26 June 2024",
+        "address": "Lucerne, Switzerland (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Lucerne University of Applied Sciences and Arts",
+            "Region 09 - Latin America"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.04954%2C8.30437&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://edem-egov.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Conference on Artificial Intelligence (CAI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "25 June 2024",
+        "end_date": "27 June 2024",
+        "address": "Singapore, Singapore",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Computational Intelligence Society",
+            "IEEE Systems",
+            "IEEE Signal Processing Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=1.352083%2C103.819836&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeecai.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 37th International Symposium on Computer-Based Medical Systems (CBMS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "26 June 2024",
+        "end_date": "28 June 2024",
+        "address": "Guadalajara, Mexico",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=20.68758%2C-103.35104&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://2024.cbms-conference.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Symposium on Computers and Communications (ISCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "26 June 2024",
+        "end_date": "29 June 2024",
+        "address": "Paris, France",
+        "sponsors": [
+            "IEEE Computer Society",
+            "France Section COM Chapter",
+            "IEEE Communications Society",
+            "Region 08 - Europe",
+            "France Section"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.856614%2C2.3522219&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieee-iscc.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Cloud Summit",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 June 2024",
+        "end_date": "28 June 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieeecloudsummit.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 11th International Conference on Cyber Security and Cloud Computing (CSCloud)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "28 June 2024",
+        "end_date": "30 June 2024",
+        "address": "Shanghai, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE 10th International Conference on Edge Computing and Scalable Cloud (EdgeCom)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "28 June 2024",
+        "end_date": "30 June 2024",
+        "address": "Shanghai, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "29 June 2024",
+        "end_date": "3 July 2024",
+        "address": "Buenos Aires, Argentina",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Computer Architecture - ACM SIGARCH"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-34.6036844%2C-58.3815591&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://iscaconf.org/isca2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Smart Computing (SMARTCOMP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "29 June 2024",
+        "end_date": "2 July 2024",
+        "address": "Osaka, Japan",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Missouri University of Science & Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6937249%2C135.5022535&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://smartcomp.w.waseda.jp/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Advanced Learning Technologies (ICALT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "1 July 2024",
+        "end_date": "4 July 2024",
+        "address": "Nicosia, North Cyprus, Cyprus (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.17197%2C33.36489&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://tc.computer.org/tclt/icalt-2024/"
+    },
+    {
+        "conference_name": "2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "1 July 2024",
+        "end_date": "3 July 2024",
+        "address": "Knoxville, Tennessee, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Circuits and Systems Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.96068%2C-83.92103&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-isvlsi.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 July 2024",
+        "end_date": "4 July 2024",
+        "address": "Osaka, Japan",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6937249%2C135.5022535&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.compsac.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 30th International Symposium on On-Line Testing and Robust System Design (IOLTS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "3 July 2024",
+        "end_date": "5 July 2024",
+        "address": "Rennes, France",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Council on Electronic Design Automation"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.117266%2C-1.6777926&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://iolts.tttc-events.org/"
+    },
+    {
+        "conference_name": "2024 IEEE World Congress on Services (SERVICES)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conferences.computer.org/services/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 17th International Conference on Cloud Computing (CLOUD)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cloud.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Edge Computing and Communications (EDGE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://edge.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Digital Health (ICDH)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icdh.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Web Services (ICWS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icws.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Quantum Software (QSW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://qsw.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Software Services Engineering (SSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 July 2024",
+        "end_date": "13 July 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sse.conferences.computer.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 9th European Symposium on Security and Privacy (EuroS&P)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "8 July 2024",
+        "end_date": "12 July 2024",
+        "address": "Vienna, Austria",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.2081743%2C16.3738189&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://eurosp2024.ieee-security.org/"
+    },
+    {
+        "conference_name": "2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "8 July 2024",
+        "end_date": "12 July 2024",
+        "address": "Vienna, Austria",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.2081743%2C16.3738189&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://eurosp2024.ieee-security.org/workshops.html"
+    },
+    {
+        "conference_name": "2024 IEEE 37th Computer Security Foundations Symposium (CSF)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "8 July 2024",
+        "end_date": "12 July 2024",
+        "address": "Enschede, Netherlands",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=52.2215372%2C6.8936619&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://csf2024.ieee-security.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Multimedia and Expo (ICME)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "19 July 2024",
+        "address": "Niagara Falls, Ontario, Canada",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Circuits and Systems Society",
+            "IEEE Communications Society",
+            "IEEE Signal Processing Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=43.0895577%2C-79.0849436&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.ieeeicme.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 10th International Conference on Space Mission Challenges for Information Technology (SMC-IT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "19 July 2024",
+        "address": "Mountain View, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.38971%2C-122.08157&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://smcit-scc.space/"
+    },
+    {
+        "conference_name": "2024 IEEE Space Computing Conference (SCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "19 July 2024",
+        "address": "Mountain View, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.38971%2C-122.08157&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://smcit-scc.space/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://ieeedapps.com/"
+    },
+    {
+        "conference_name": "2024 IEEE International Congress On Intelligent and Service-Oriented Systems Engineering (CISOSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieee-cisose-congress.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Intelligent Mobile Computing (MobileCloud)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieee-cisose-congress.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Joint Cloud Computing (JCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://ieeejcc.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Service-Oriented System Engineering (SOSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeesose.com/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Artificial Intelligence Testing (AITest)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeeaitest.com/"
+    },
+    {
+        "conference_name": "2024 IEEE 10th International Conference on Big Data Computing Service and Machine Learning Applications (BigDataService)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Shanghai, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeebigdataservice.com/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACIS 9th International Conference on Big Data, Cloud Computing, and Data Science (BCD)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 July 2024",
+        "end_date": "18 July 2024",
+        "address": "Kitakyushu, Japan",
+        "sponsors": [
+            "IEEE Computer Society",
+            "International Association for Computer & Information Science - ACIS"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=33.8834976%2C130.8751773&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://acisinternational.org/conferences/bcd-2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Computational Photography (ICCP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "22 July 2024",
+        "end_date": "24 July 2024",
+        "address": "Lausanne, Switzerland (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=46.5196535%2C6.6322734&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://iccp2024.iccp-conference.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 July 2024",
+        "end_date": "26 July 2024",
+        "address": "Jersey City, New Jersey, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71748%2C-74.04385&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icdcs2024.icdcs.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 44th International Conference on Distributed Computing Systems Workshops (ICDCSW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 July 2024",
+        "end_date": "23 July 2024",
+        "address": "Jersey City, New Jersey, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.71748%2C-74.04385&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icdcs2024.icdcs.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 35th International Conference on Application-specific Systems, Architectures and Processors (ASAP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 July 2024",
+        "end_date": "26 July 2024",
+        "address": "Hong Kong, Hong Kong",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.3193039%2C114.1693611&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://asap2024.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Omni-layer Intelligent Systems (COINS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "29 July 2024",
+        "end_date": "31 July 2024",
+        "address": "London, United Kingdom (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Council on Electronic Design Automation",
+            "United Kingdom & Ireland Section CIS Chapter",
+            "United Kingdom & Ireland Section RA Chapter",
+            "Pirouzan Silicon Intelligence Center - PISI Center",
+            "Region 08 - Europe",
+            "United Kingdom & Ireland Section",
+            "IEEE Robotics and Automation Society",
+            "United Kingdom & Ireland Section WIE Affinity Group"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=51.5072178%2C-0.1275862&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://coinsconf.com/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Information Reuse and Integration for Data Science (IRI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 August 2024",
+        "end_date": "9 August 2024",
+        "address": "San Jose, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.33874%2C-121.8852525&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://homepages.uc.edu/~niunn/IRI24/"
+    },
+    {
+        "conference_name": "2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "7 August 2024",
+        "end_date": "9 August 2024",
+        "address": "San Jose, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.33874%2C-121.8852525&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sites.google.com/view/mipr2024"
+    },
+    {
+        "conference_name": "2024 7th International Conference on Education, Network and Information Technology (ICENIT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "16 August 2024",
+        "end_date": "18 August 2024",
+        "address": "Dalian, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "University of Haute Alsace",
+            "Wuhan Institute of Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9139899%2C121.6147&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.icenit.org/"
+    },
+    {
+        "conference_name": "2024 International Conference on Advances in Electrical Engineering and Computer Applications (AEECA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "16 August 2024",
+        "end_date": "18 August 2024",
+        "address": "Dalian, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Beijing University of Technology",
+            "University of Haute Alsace",
+            "Zhengzhou University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9139899%2C121.6147&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.aeeca.com/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Blockchain (Blockchain)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 August 2024",
+        "end_date": "22 August 2024",
+        "address": "Copenhagen, Denmark",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.6760968%2C12.5683371&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieee-cybermatics.org/2024/blockchain/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 August 2024",
+        "end_date": "22 August 2024",
+        "address": "Copenhagen, Denmark",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.6760968%2C12.5683371&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieee-cybermatics.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 30th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "21 August 2024",
+        "end_date": "23 August 2024",
+        "address": "Sokcho, Korea (South)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.18474%2C128.58143&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://rtcsa2024.github.io/"
+    },
+    {
+        "conference_name": "2024 IEEE Symposium on High-Performance Interconnects (HOTI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Virtual",
+        "start_date": "21 August 2024",
+        "end_date": "23 August 2024",
+        "address": "Virtual",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "",
+        "website": "https://hoti.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Hot Chips 36 Symposium (HCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "25 August 2024",
+        "end_date": "27 August 2024",
+        "address": "Stanford, California, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.43137%2C-122.16892&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.hotchips.org/"
+    },
+    {
+        "conference_name": "2024 IEEE SustainTech Expo: Technology Solutions for a Sustainable Future (SustainTech)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 August 2024",
+        "end_date": "28 August 2024",
+        "address": "San Diego, California, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Communications Society",
+            "IEEE Power & Energy Society",
+            "IEEE Signal Processing Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=32.715738%2C-117.1610838&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeesustaintechexpo.org/"
+    },
+    {
+        "conference_name": "2024 21st Annual International Conference on Privacy, Security and Trust (PST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 August 2024",
+        "end_date": "30 August 2024",
+        "address": "Sydney, Australia",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Canadian Institute for Cybersecurity",
+            "University of New South Wales - UNSW"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-33.8688197%2C151.2092955&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://pstnet.ca/"
+    },
+    {
+        "conference_name": "2024 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 September 2024",
+        "end_date": "6 September 2024",
+        "address": "Liverpool, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=53.4083714%2C-2.9915726&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/vlhcc-2024"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Quantum Computing and Engineering (QCE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "15 September 2024",
+        "end_date": "20 September 2024",
+        "address": "Montreal, Quebec, Canada (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Communications Society",
+            "IEEE Council of Superconductivity",
+            "IEEE Photonics Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=45.5018869%2C-73.56739189999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://qce.quantum.ieee.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Workload Characterization (IISWC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 September 2024",
+        "end_date": "17 September 2024",
+        "address": "Vancouver, British Columbia, Canada",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=49.2827291%2C-123.1207375&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://iiswc.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 September 2024",
+        "end_date": "20 September 2024",
+        "address": "Aarhus, Denmark",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=56.15302%2C10.20486&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.acsos.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 20th International Conference on e-Science (e-Science)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 September 2024",
+        "end_date": "20 September 2024",
+        "address": "Osaka, Japan",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6937249%2C135.5022535&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.escience-conference.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 September 2024",
+        "end_date": "20 September 2024",
+        "address": "Aarhus, Denmark",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=56.15302%2C10.20486&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.acsos.org/"
+    },
+    {
+        "conference_name": "2024 ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "22 September 2024",
+        "end_date": "27 September 2024",
+        "address": "Linz, Austria",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.30694%2C14.28583&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/models-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "23 September 2024",
+        "end_date": "25 September 2024",
+        "address": "Seoul, Korea (South)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.55886%2C126.99989&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sites.google.com/view/ieee-mass-2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 September 2024",
+        "end_date": "27 September 2024",
+        "address": "Kobe, Japan",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6900806%2C135.1956311&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://clustercomp.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "24 September 2024",
+        "end_date": "27 September 2024",
+        "address": "Kobe, Japan (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6900806%2C135.1956311&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://clustercomp.org/committee/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Cloud Engineering (IC2E)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 September 2024",
+        "end_date": "27 September 2024",
+        "address": "Paphos, Cyprus",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.77539489999999%2C32.4217786&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conferences.computer.org/IC2E/2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE Region 10 Symposium (TENSYMP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 September 2024",
+        "end_date": "29 September 2024",
+        "address": "New Delhi, India",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Control Systems Society",
+            "IEEE Electron Devices Society",
+            "IEEE Industry Applications Society",
+            "IEEE Intelligent Transportation Systems Society",
+            "IEEE Power & Energy Society",
+            "Region 10 - Asia and Pacific",
+            "Delhi Section"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.6139391%2C77.2090212&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeedelhi-tensymp2024.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "6 October 2024",
+        "end_date": "11 October 2024",
+        "address": "Flagstaff, Arizona, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.1982836%2C-111.651302&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icsme-2024"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Source Code Analysis and Manipulation (SCAM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "6 October 2024",
+        "end_date": "7 October 2024",
+        "address": "Flagstaff, Arizona, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.1982836%2C-111.651302&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-scam.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE Secure Development Conference (SecDev)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "7 October 2024",
+        "end_date": "10 October 2024",
+        "address": "Pittsburgh, Pennsylvania, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.44062479999999%2C-79.9958864&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://secdev.ieee.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 49th Conference on Local Computer Networks (LCN)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "8 October 2024",
+        "end_date": "10 October 2024",
+        "address": "Normandy, France",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=49.44014%2C1.0894&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieeelcn.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "8 October 2024",
+        "end_date": "10 October 2024",
+        "address": "Didcot, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=51.60237%2C-1.23211&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.dfts.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on e-Business Engineering (ICEBE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "11 October 2024",
+        "end_date": "13 October 2024",
+        "address": "Shanghai, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=31.230416%2C121.473701&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conferences.computer.org/icebe/2024/index.htm"
+    },
+    {
+        "conference_name": "2024 IEEE Visualization and Visual Analytics (VIS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 October 2024",
+        "end_date": "18 October 2024",
+        "address": "Tampa Bay, Florida, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=27.763383%2C-82.5436722&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeevis.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Frontiers in Education Conference (FIE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "13 October 2024",
+        "end_date": "16 October 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Education Society",
+            "ASEE Educational Research Methods Division"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.fie-conference.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Digital Platforms and Societal Harms",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "14 October 2024",
+        "end_date": "15 October 2024",
+        "address": "Washington, District of Columbia, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Northern Virginia/Washington Jt. C Chapter",
+            "IEEE Society on Social Implications of Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.computer.org/conferences/dpsh-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 65th Annual Symposium on Foundations of Computer Science (FOCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "20 October 2024",
+        "end_date": "23 October 2024",
+        "address": "Chicago, Illinois, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=41.8781136%2C-87.6297982&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "21 October 2024",
+        "end_date": "25 October 2024",
+        "address": "Bellevue, Washington, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.6101497%2C-122.2015159&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ismar.net/"
+    },
+    {
+        "conference_name": "2024 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "24 October 2024",
+        "end_date": "26 October 2024",
+        "address": "Guangzhou, China",
+        "sponsors": [
+            "IEEE Computer Society",
+            "The Hong Kong University of Science and Technology (Guangzhou)",
+            "University of Louisville - Minds Lab"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=23.1290799%2C113.26436&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://cyberc.org/"
+    },
+    {
+        "conference_name": "2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 October 2024",
+        "end_date": "1 November 2024",
+        "address": "Sacramento, California, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "ACM SIGAI",
+            "Association for Computing Machinery Special Interest Group on Software Engineering - ACM SIGSOFT"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.5815719%2C-121.4943996&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/ase-2024"
+    },
+    {
+        "conference_name": "2024 IEEE 32nd International Conference on Network Protocols (ICNP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "31 October 2024",
+        "address": "Charleroi, Belgium",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=50.41081%2C4.44022&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://icnp24.cs.ucr.edu/"
+    },
+    {
+        "conference_name": "2024 IEEE 10th International Conference on Collaboration and Internet Computing (CIC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "30 October 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.sis.pitt.edu/lersais/conference/cic/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "30 October 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.sis.pitt.edu/lersais/conference/tps/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 6th International Conference on Cognitive Machine Intelligence (CogMI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "31 October 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.sis.pitt.edu/lersais/conference/cogmi/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "31 October 2024",
+        "address": "Tsukuba, Japan",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Reliability Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.08348%2C140.07645&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://issre.github.io/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE 36th International Conference on Tools with Artificial Intelligence (ICTAI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "30 October 2024",
+        "address": "Herndon, Virginia, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Biological & AI Foundation - BAIF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.96973%2C-77.385&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops (ISSREW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "28 October 2024",
+        "end_date": "31 October 2024",
+        "address": "Tsukuba, Japan",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Reliability Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.08348%2C140.07645&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://issre.github.io/2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 October 2024",
+        "end_date": "2 November 2024",
+        "address": "Kaifeng, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.90657%2C116.38765&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-ispa.org/2024/ispa/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Big Data and Cloud Computing (BDCloud)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 October 2024",
+        "end_date": "2 November 2024",
+        "address": "Kaifeng, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.90657%2C116.38765&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Sustainable Computing and Communications (SustainCom)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 October 2024",
+        "end_date": "2 November 2024",
+        "address": "Kaifeng, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.90657%2C116.38765&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Security, Privacy, Anonymity in Computation and Communication and Storage (SpaCCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 October 2024",
+        "end_date": "2 November 2024",
+        "address": "Kaifeng, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.90657%2C116.38765&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-ispa.org/2024/spaccs/"
+    },
+    {
+        "conference_name": "2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 November 2024",
+        "end_date": "6 November 2024",
+        "address": "Austin, Texas, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Microarchitectural Research & Processing - ACM SIGMICRO"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=30.267153%2C-97.7430608&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://microarch.org/micro57"
+    },
+    {
+        "conference_name": "2024 IEEE 42nd IEEE International Conference on Computer Design (ICCD)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "3 November 2024",
+        "end_date": "6 November 2024",
+        "address": "Milan, Italy",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=45.46796%2C9.18178&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.iccd-conf.com/"
+    },
+    {
+        "conference_name": "2024 IEEE 29th Pacific Rim International Symposium on Dependable Computing (PRDC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "13 November 2024",
+        "end_date": "15 November 2024",
+        "address": "Osaka, Japan (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.6937249%2C135.5022535&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://prdc.dependability.org/PRDC2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Smart Internet of Things (SmartIoT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 November 2024",
+        "end_date": "16 November 2024",
+        "address": "Shenzhen, China",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=22.5428599%2C114.05956&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ieee-smartiot.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Medical Artificial Intelligence (MedAI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "15 November 2024",
+        "end_date": "17 November 2024",
+        "address": "Chongqing, China (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=29.5656843%2C106.5511838&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.bigdatacq.cn/2024MedAl.html"
+    },
+    {
+        "conference_name": "SC24: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "17 November 2024",
+        "end_date": "22 November 2024",
+        "address": "Atlanta, Georgia, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=33.748752%2C-84.38768449999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://sc24.supercomputing.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Performance, Computing, and Communications Conference (IPCCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "22 November 2024",
+        "end_date": "24 November 2024",
+        "address": "Orlando, Florida, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=28.5383832%2C-81.3789269&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.ipccc.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 24th International Conference on Bioinformatics and Bioengineering (BIBE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 November 2024",
+        "end_date": "29 November 2024",
+        "address": "Kragujevac, Serbia",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=44.0292%2C20.91721&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.bibe2024.kg.ac.rs/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "3 December 2024",
+        "end_date": "6 December 2024",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society",
+            "International Society of Big Data and Bioinformatics"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeebibm.org/BIBM2024/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM Symposium on Edge Computing (SEC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "4 December 2024",
+        "end_date": "7 December 2024",
+        "address": "Rome, Italy",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Mobile - ACM SIG MOBILE"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=41.9027835%2C12.4963655&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://acm-ieee-sec.org/2024/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Data Mining (ICDM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "9 December 2024",
+        "end_date": "12 December 2024",
+        "address": "Abu Dhabi, United Arab Emirates (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=24.453884%2C54.3773438&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://icdm2024.josueonline.com/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "9 December 2024",
+        "end_date": "11 December 2024",
+        "address": "Abu Dhabi, United Arab Emirates",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Khalifa University"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=24.453884%2C54.3773438&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.cloudcom2024.org/"
+    },
+    {
+        "conference_name": "2024 IEEE Real-Time Systems Symposium (RTSS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "10 December 2024",
+        "end_date": "13 December 2024",
+        "address": "York, United Kingdom (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=53.95333%2C-1.08341&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://2024.rtss.org/"
+    },
+    {
+        "conference_name": "2024 IEEE International Conference on Big Data (BigData)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "15 December 2024",
+        "end_date": "18 December 2024",
+        "address": "Washington, District of Columbia, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "International Society of Big Data and Bioinformatics"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.9071923%2C-77.0368707&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://bigdataieee.org/BigData2024/index.html"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 December 2024",
+        "end_date": "19 December 2024",
+        "address": "Sharjah, United Arab Emirates",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Computer Architecture - ACM SIGARCH"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=25.35287%2C55.39203&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://bdcat-conference.org/"
+    },
+    {
+        "conference_name": "2024 IEEE/ACM 17th International Conference on Utility and Cloud Computing (UCC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 December 2024",
+        "end_date": "19 December 2024",
+        "address": "Sharjah, United Arab Emirates",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Computer Architecture - ACM SIGARCH"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=25.35287%2C55.39203&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ucc-conference.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 31th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "18 December 2024",
+        "end_date": "21 December 2024",
+        "address": "Bangalore, India (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "HIPC Trust"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=12.9715987%2C77.5945627&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.hipc.org/"
+    },
+    {
+        "conference_name": "2024 IEEE 31st International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "18 December 2024",
+        "end_date": "21 December 2024",
+        "address": "Bangalore, India (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "HIPC Trust"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=12.9715987%2C77.5945627&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://hipc.org/"
+    },
+    {
+        "conference_name": "2024 3rd International Conference on Embedded Systems and Artificial Intelligence (ESAI)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "19 December 2024",
+        "end_date": "20 December 2024",
+        "address": "Fez, Morocco (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Laboratoire d'Informatique"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=34.0181246%2C-5.0078451&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://esaiconference.org/"
+    },
+    {
+        "conference_name": "2025 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "27 January 2025",
+        "end_date": "29 January 2025",
+        "address": "Lisbon, Portugal",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.7222524%2C-9.1393366&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "26 February 2025",
+        "end_date": "6 March 2025",
+        "address": "Tucson, Arizona, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=32.2539787%2C-110.9741769&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "1 March 2025",
+        "end_date": "5 March 2025",
+        "address": "Las Vegas, Nevada, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.171563%2C-115.1391009&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://hpca-conf.org/"
+    },
+    {
+        "conference_name": "2025 IEEE Conference Virtual Reality and 3D User Interfaces (VR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "8 March 2025",
+        "end_date": "12 March 2025",
+        "address": "Saint Malo, France (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "INRIA - Institut National de Recherche en Informatique et Automatique",
+            "France Section"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.65058%2C-2.02315&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE Conference on Software Testing, Verification and Validation (ICST)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "31 March 2025",
+        "end_date": "4 April 2025",
+        "address": "Napoli, Italy",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=40.84014%2C14.25227&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://conf.researchr.org/home/icst-2025"
+    },
+    {
+        "conference_name": "2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "26 April 2025",
+        "end_date": "3 May 2025",
+        "address": "Ottawa, Ontario, Canada",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery Special Interest Group on Software Engineering - ACM SIGSOFT"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=45.4215296%2C-75.69719309999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "http://www.icse-conferences.org/"
+    },
+    {
+        "conference_name": "2025 IEEE 33rd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "4 May 2025",
+        "end_date": "8 May 2025",
+        "address": "Fayetteville, Arkansas, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=35.05534%2C-78.87727&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://www.fccm.org/"
+    },
+    {
+        "conference_name": "2025 IEEE Symposium on Security and Privacy (SP)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "12 May 2025",
+        "end_date": "15 May 2025",
+        "address": "San Francisco, California, USA",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=37.7749295%2C-122.4194155&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "12 May 2025",
+        "end_date": "16 May 2025",
+        "address": "Tampa/Clearwater, Florida, USA",
+        "sponsors": [
+            "IEEE Biometrics Council",
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=27.96562%2C-82.79552&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://fg2025.ieee-biometrics.org/"
+    },
+    {
+        "conference_name": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "10 June 2025",
+        "end_date": "17 June 2025",
+        "address": "Nashville, Tennessee, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=36.1626638%2C-86.7816016&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE International Conference on Multimedia and Expo (ICME)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 June 2025",
+        "end_date": "4 July 2025",
+        "address": "Nantes, France",
+        "sponsors": [
+            "IEEE Computer Society",
+            "IEEE Circuits and Systems Society",
+            "IEEE Communications Society",
+            "IEEE Signal Processing Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.218371%2C-1.553621&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE 10th European Symposium on Security and Privacy (EuroS&P)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "30 June 2025",
+        "end_date": "4 July 2025",
+        "address": "Venice, Italy",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=45.4408474%2C12.3155151&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE 45th International Conference on Distributed Computing Systems (ICDCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "21 July 2025",
+        "end_date": "23 July 2025",
+        "address": "Glasgow, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.85783%2C-4.24251&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE 45th International Conference on Distributed Computing Systems Workshops (ICDCSW)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "21 July 2025",
+        "end_date": "23 July 2025",
+        "address": "Glasgow, United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.85783%2C-4.24251&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "2 September 2025",
+        "end_date": "5 September 2025",
+        "address": "United Kingdom",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=55.378051%2C-3.435973&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 October 2025",
+        "end_date": "25 October 2025",
+        "address": "Honolulu, Hawaii, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=21.3098845%2C-157.8581401&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE Visualization and Visual Analytics (VIS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "1 November 2025",
+        "end_date": "7 November 2025",
+        "address": "Vienna, Austria (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Vienna University of Technology"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=48.2081743%2C16.3738189&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeevis.org/"
+    },
+    {
+        "conference_name": "SC25: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "16 November 2025",
+        "end_date": "21 November 2025",
+        "address": "St. Louis, Missouri, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Association for Computing Machinery - ACM"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=38.6270025%2C-90.19940419999999&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2025 IEEE 66th Annual Symposium on Foundations of Computer Science (FOCS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "14 December 2025",
+        "end_date": "17 December 2025",
+        "address": "Sydney, Australia",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=-33.8688197%2C151.2092955&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2026 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "6 June 2026",
+        "end_date": "12 June 2026",
+        "address": "Denver, Colorado, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=39.7392358%2C-104.990251&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    },
+    {
+        "conference_name": "2026 IEEE Visualization and Visual Analytics (VIS)",
+        "event_type": "Technical Conference",
+        "attendence_type": "Hybrid",
+        "start_date": "8 November 2026",
+        "end_date": "13 November 2026",
+        "address": "Boston, Massachusetts, USA (Hybrid)",
+        "sponsors": [
+            "IEEE Computer Society"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=42.3600825%2C-71.0588801&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": "https://ieeevis.org/"
+    },
+    {
+        "conference_name": "2027 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "event_type": "Technical Conference",
+        "attendence_type": "In Person",
+        "start_date": "19 June 2027",
+        "end_date": "26 June 2027",
+        "address": "Seattle, Washington, USA",
+        "sponsors": [
+            "IEEE Computer Society",
+            "Computer Vision Foundation - CVF"
+        ],
+        "map": "https://maps.googleapis.com/maps/api/staticmap?size=500x450&sensor=false&zoom=5&markers=47.6062095%2C-122.3320708&key=AIzaSyBeSTwjOtn9hQP2fBZOPEJcH8Q6D0rmU1U",
+        "website": ""
+    }
+]

@@ -996,6 +996,17 @@
       deadline: '2023-04-22 23:59:59'
     timezone: UTC+1
     year: 2023
+  - date: September 30-October 4, 2024
+    id: srds24
+    link: https://srds-conference.org/
+    place: Charlotte, USA
+    timeline:
+    - comment: ABSTRACT
+      deadline: '2024-04-26 23:59:59'
+    - comment: FULL PAPER
+      deadline: '2024-05-03 23:59:59'
+    timezone: AoE
+    year: 2024
   dblp: srds
   description: IEEE International Symposium on Reliable Distributed Systems
   rank: B
@@ -3825,6 +3836,21 @@
   rank: A
   sub: SE
   title: POPL
+- confs:
+  - date: September 4-5, 2024
+    id: apsys2024
+    link: https://apsys2024.github.io/
+    place: Kyoto, Japan
+    timeline:
+    - abstract_deadline: '2024-04-25 23:59:00'
+      deadline: '2024-05-02 23:59:00'
+    timezone: AoE
+    year: 2024
+  dblp: apsys
+  description: ACM SIGOPS Asia-Pacific Workshop on Systems
+  rank: N
+  sub: SE
+  title: APSys
 - confs:
   - date: July 18-22, 2022
     id: issta22

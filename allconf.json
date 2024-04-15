@@ -1590,6 +1590,24 @@
                 "timezone": "UTC+1",
                 "date": "September 27-29, 2023",
                 "place": "Marrakech, Morocco"
+            },
+            {
+                "year": 2024,
+                "id": "srds24",
+                "link": "https://srds-conference.org/",
+                "timeline": [
+                    {
+                        "deadline": "2024-04-26 23:59:59",
+                        "comment": "ABSTRACT"
+                    },
+                    {
+                        "deadline": "2024-05-03 23:59:59",
+                        "comment": "FULL PAPER"
+                    }
+                ],
+                "timezone": "AoE",
+                "date": "September 30-October 4, 2024",
+                "place": "Charlotte, USA"
             }
         ]
     },
@@ -6110,6 +6128,29 @@
                 "timezone": "AoE",
                 "date": "January 17-19, 2024",
                 "place": "London, United Kingdom"
+            }
+        ]
+    },
+    {
+        "title": "APSys",
+        "description": "ACM SIGOPS Asia-Pacific Workshop on Systems",
+        "sub": "SE",
+        "rank": "N",
+        "dblp": "apsys",
+        "confs": [
+            {
+                "year": 2024,
+                "id": "apsys2024",
+                "link": "https://apsys2024.github.io/",
+                "timeline": [
+                    {
+                        "abstract_deadline": "2024-04-25 23:59:00",
+                        "deadline": "2024-05-02 23:59:00"
+                    }
+                ],
+                "timezone": "AoE",
+                "date": "September 4-5, 2024",
+                "place": "Kyoto, Japan"
             }
         ]
     },

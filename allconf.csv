@@ -79,6 +79,7 @@ AsiaCCS,Asia Conference on Computer and Communications Security,SC,C,ccs,2022,as
 AsiaCCS,Asia Conference on Computer and Communications Security,SC,C,ccs,2024,asiaccs24,https://asiaccs2024.sutd.edu.sg/,,2023-08-21 23:59:59,AoE,"July 1-5, 2024",Singapore
 SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2021,srds21,https://srds-conference.org/,,2021-04-16 23:59:59,AoE,"September 20-23, 2021",Virtual
 SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2023,srds23,https://srds-conference.org/,,2023-04-15 23:59:59,UTC+1,"September 27-29, 2023","Marrakech, Morocco"
+SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2024,srds24,https://srds-conference.org/,,2024-04-26 23:59:59,AoE,"September 30-October 4, 2024","Charlotte, USA"
 CT-RSA,Cryptographer's Track at RSA Conference,SC,C,ctrsa,2022,ct-rsa22,https://ct-rsa-2022.auckland.ac.nz/,,2021-09-13 23:59:59,UTC-12,"February 07-10 , 2022","San Francisco, CA, USA"
 CT-RSA,Cryptographer's Track at RSA Conference,SC,C,ctrsa,2024,ct-rsa24,https://ct-rsa-2024.aau.at/,,2023-10-02 23:59:59,UTC-12,"May 06-09 , 2024","San Francisco, CA, USA"
 DIMVA,Detection of Intrusions and Malware & Vulnerability Assessment,SC,C,dimva,2021,dimva21,https://dimva2021.campus.ciencias.ulisboa.pt/,,2021-03-01 23:59:59,AoE,"July 14-16 , 2022",Virtual
@@ -308,6 +309,7 @@ SAS,International Static Analysis Symposium,SE,B,sas,2022,sas22,https://2022.spl
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2022,popl22,https://popl22.sigplan.org/,,2021-07-08 23:59:59,AoE,"January 16-22, 2022",Westin Philadelphia
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2023,popl23,https://popl23.sigplan.org/,,2022-07-07 23:59:59,AoE,"January 15-21, 2023","Boston, Massachusetts, United States"
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2024,popl24,https://popl24.sigplan.org/,,2023-07-11 23:59:59,AoE,"January 17-19, 2024","London, United Kingdom"
+APSys,ACM SIGOPS Asia-Pacific Workshop on Systems,SE,N,apsys,2024,apsys2024,https://apsys2024.github.io/,2024-04-25 23:59:00,2024-05-02 23:59:00,AoE,"September 4-5, 2024","Kyoto, Japan"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2022,issta22,https://conf.researchr.org/home/issta-2022,,2022-01-28 23:59:59,AoE,"July 18-22, 2022","Daejeon, South Korea"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2023,issta23,https://conf.researchr.org/home/issta-2023,,2022-11-10 23:59:59,AoE,"July 17-21, 2023","Seattle, United States"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2024,issta24,https://conf.researchr.org/home/issta-2024,,2023-12-15 23:59:59,AoE,"September 16-20, 2024","Vienna, Austria"
