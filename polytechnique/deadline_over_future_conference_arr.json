@@ -1,0 +1,792 @@
+[
+    {
+        "name": "SDM",
+        "conference_link": "https://www.siam.org/conferences/cm/conference/sdm24",
+        "location": "Houston, Texas, USA",
+        "date": "18-20 April 2023",
+        "notification": "late December 2023",
+        "final_version": "",
+        "early_registration": "18 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "RECOMB",
+        "conference_link": "https://recomb.org/recomb2024/",
+        "location": "Boston, Massachusetts, USA",
+        "date": "29 April - 2 May 2024",
+        "notification": "22 December 2023",
+        "final_version": "26 January 2024",
+        "early_registration": "15 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "AAMAS",
+        "conference_link": "https://www.aamas2024-conference.auckland.ac.nz/",
+        "location": "Auckland, New Zealand",
+        "date": "6-10 May 2024",
+        "notification": "20 December 2023",
+        "final_version": "8 February 2024",
+        "early_registration": "11 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "TAMC",
+        "conference_link": "https://tamc2024.comp.polyu.edu.hk/",
+        "location": "Hong Kong, SAR China",
+        "date": "13-15 May 2024",
+        "notification": "1 February 2024",
+        "final_version": "",
+        "early_registration": "31 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "OLA",
+        "conference_link": "https://ola2024.sciencesconf.org/",
+        "location": "Dubrovnik, Croatia",
+        "date": "13-15 May 2024",
+        "notification": "9 February 2024",
+        "final_version": "",
+        "early_registration": "31 March 2024",
+        "remarks": "early registration obligatory for authors"
+    },
+    {
+        "name": "FLOPS",
+        "conference_link": "https://conf.researchr.org/home/flops-2024",
+        "location": "Kumamoto, Japan",
+        "date": "15-17 May 2024",
+        "notification": "26 January 2024",
+        "final_version": "21 February 2024",
+        "early_registration": "30 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "ISCO",
+        "conference_link": "https://eventos.ull.es/isco-2024",
+        "location": "Tenerife, Canary Islands, Spain",
+        "date": "22-24 May 2024",
+        "notification": "15 March 2024",
+        "final_version": "15 April 2024",
+        "early_registration": "31 March 2024",
+        "remarks": "school 20-21 May 2024"
+    },
+    {
+        "name": "EUROCRYPT",
+        "conference_link": "https://eurocrypt.iacr.org/2024/",
+        "location": "Zurich, Switzerland",
+        "date": "26-30 May 2024",
+        "notification": "8 December 202331 January 2024",
+        "final_version": "",
+        "early_registration": "26 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "LPAR",
+        "conference_link": "https://easychair.org/smart-program/LPAR2024/",
+        "location": "Mauritius",
+        "date": "26-31 May 2024",
+        "notification": "1 April 2024",
+        "final_version": "5 April 2024",
+        "early_registration": "16 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SIROCCO",
+        "conference_link": "http://sirocco2024.di.unisa.it/",
+        "location": "Vietri sul Mare, Salerno, Italy",
+        "date": "27-29 May 2024",
+        "notification": "28 January 2024",
+        "final_version": "",
+        "early_registration": "31 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "CPAIOR",
+        "conference_link": "https://sites.google.com/view/cpaior2024",
+        "location": "Uppsala, Sweden",
+        "date": "28-31 May 2024",
+        "notification": "1 February 2024",
+        "final_version": "",
+        "early_registration": "15 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "ICAPS",
+        "conference_link": "https://icaps24.icaps-conference.org/",
+        "location": "Banf, Alberta, Canada",
+        "date": "1-5 June 2024",
+        "notification": "12 February 2024",
+        "final_version": "",
+        "early_registration": "31 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "HALG",
+        "conference_link": "https://halg2024.ideas-ncbr.pl/",
+        "location": "Warsaw, Poland",
+        "date": "3-5 June 2024",
+        "notification": "",
+        "final_version": "25 May 2024",
+        "early_registration": "1 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "NFM",
+        "conference_link": "https://conf.researchr.org/home/nfm-2024",
+        "location": "Moffett Field, California, USA",
+        "date": "4-6 June 2024",
+        "notification": "16 February 2024",
+        "final_version": "15 March 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "FUN",
+        "conference_link": "https://sites.google.com/unipi.it/fun2024/",
+        "location": "La Maddalena Island, Sardinia, Italy",
+        "date": "4-8 June 2024",
+        "notification": "2 April 2024",
+        "final_version": "15 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "SAND",
+        "conference_link": "https://www.ceid.upatras.gr/webpages/sand2024/",
+        "location": "Patras, Greece",
+        "date": "5-7 June 2024",
+        "notification": "20 March 2024",
+        "final_version": "2 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "SoCS",
+        "conference_link": "https://socs24.search-conference.org/",
+        "location": "Kananaskis, Alberta, Canada",
+        "date": "6-8 June 2024",
+        "notification": "26 March 2024",
+        "final_version": "10 April 2024",
+        "early_registration": "5 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "PODS",
+        "conference_link": "https://2024.sigmod.org/",
+        "location": "Santiago, Chile",
+        "date": "9-15 June 2024",
+        "notification": "4 March 2024",
+        "final_version": "",
+        "early_registration": "30 April 2024",
+        "remarks": "co-located with SIGMOD"
+    },
+    {
+        "name": "SIGMOD",
+        "conference_link": "https://2024.sigmod.org/",
+        "location": "Santiago, Chile",
+        "date": "9-15 June 2024",
+        "notification": "23 February 2024",
+        "final_version": "",
+        "early_registration": "30 April 2024",
+        "remarks": "co-located with PODS"
+    },
+    {
+        "name": "SCAI",
+        "conference_link": "https://ju.se/samarbeta/event-och-konferenser/konferens/scai-symposium-2024/",
+        "location": "J\u00f6nk\u00f6ping, Sweden",
+        "date": "10-11 June 2024",
+        "notification": "28 April 2024",
+        "final_version": "12 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "WoLLIC",
+        "conference_link": "https://wollic2024.inf.unibe.ch/",
+        "location": "Bern, Switzerland",
+        "date": "10-13 June 2024",
+        "notification": "15 April 2024",
+        "final_version": "29 April 2024",
+        "early_registration": "10 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SoCG",
+        "conference_link": "http://socg24.athenarc.gr/",
+        "location": "Athens, Greece",
+        "date": "11-14 June 2024",
+        "notification": "5 February 2024",
+        "final_version": "20 March 2024",
+        "early_registration": "8 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SWAT",
+        "conference_link": "https://swat2024.github.io/website/",
+        "location": "Helsinki, Finland",
+        "date": "12-14 June 2024",
+        "notification": "2 April 2024",
+        "final_version": "",
+        "early_registration": "18 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SPAA",
+        "conference_link": "https://spaa.acm.org/",
+        "location": "Nantes, France",
+        "date": "17-21 June 2024",
+        "notification": "7 April 2024",
+        "final_version": "28 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "PODC",
+        "conference_link": "https://www.podc.org",
+        "location": "Nantes, France",
+        "date": "17-21 June 2024",
+        "notification": "22 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "DisCoTec",
+        "conference_link": "https://www.discotec.org/2024/",
+        "location": "Groningen, The Netherlands",
+        "date": "17-21 June 2024",
+        "notification": "5 April 2024",
+        "final_version": "24 April 2024",
+        "early_registration": "",
+        "remarks": "federated conference including COORDINATION, DAIS, and FORTE"
+    },
+    {
+        "name": "COORDINATION",
+        "conference_link": "https://www.discotec.org/2024/coordination",
+        "location": "Groningen, The Netherlands",
+        "date": "17-21 June 2024",
+        "notification": "5 April 2024",
+        "final_version": "24 April 2024",
+        "early_registration": "",
+        "remarks": "part of DisCoTec"
+    },
+    {
+        "name": "DAIS",
+        "conference_link": "https://www.discotec.org/2024/dais",
+        "location": "Groningen, The Netherlands",
+        "date": "17-21 June 2024",
+        "notification": "5 April 2024",
+        "final_version": "24 April 2024",
+        "early_registration": "",
+        "remarks": "part of DisCoTec"
+    },
+    {
+        "name": "FORTE",
+        "conference_link": "https://www.discotec.org/2024/forte",
+        "location": "Groningen, The Netherlands",
+        "date": "17-21 June 2024",
+        "notification": "5 April 2024",
+        "final_version": "24 April 2024",
+        "early_registration": "",
+        "remarks": "part of DisCoTec"
+    },
+    {
+        "name": "AofA",
+        "conference_link": "https://www.math.aau.at/AofA2024/",
+        "location": "Bath, United Kingdom",
+        "date": "17-21 June 2024",
+        "notification": "28 April 2024",
+        "final_version": "19 May 2024",
+        "early_registration": "3 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "DL",
+        "conference_link": "https://dl2024.w.uib.no/",
+        "location": "Bergen, Norway",
+        "date": "18-21 June 2024",
+        "notification": "8 May 2024",
+        "final_version": "3 June 2024",
+        "early_registration": "21 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "WG",
+        "conference_link": "https://conferences.famnit.upr.si/event/31/",
+        "location": "Gozd Martuljek, Slovenia",
+        "date": "19-21 June 2024",
+        "notification": "19 April 2024",
+        "final_version": "12 July 2024",
+        "early_registration": "30 April 2024",
+        "remarks": ""
+    },
+    {
+        "name": "STOC",
+        "conference_link": "http://acm-stoc.org/stoc2024/",
+        "location": "Vancouver, Canada",
+        "date": "24-28 June 2024",
+        "notification": "11 February 2024",
+        "final_version": "31 March 2024",
+        "early_registration": "6 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "CPM",
+        "conference_link": "https://cpm2024.github.io/",
+        "location": "Fukuoka, Japan",
+        "date": "25-27 June 2024",
+        "notification": "10 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "DCFS",
+        "conference_link": "https://sites.google.com/scu.edu/dcfs24/",
+        "location": "Santa Clara, California, USA",
+        "date": "25-27 June 2024",
+        "notification": "26 April 2024",
+        "final_version": "10 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "DEBS",
+        "conference_link": "https://2024.debs.org/",
+        "location": "Lyon, France",
+        "date": "25-28 June 2024",
+        "notification": "12 April 202413 May 2024",
+        "final_version": "24 May 2024",
+        "early_registration": "13 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "LOFT",
+        "conference_link": "https://loftconference15.wordpress.com/",
+        "location": "Bayreuth, Germany",
+        "date": "26-28 June 2024",
+        "notification": "beginning April",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "IWOCA",
+        "conference_link": "http://iwoca2024.di.unisa.it/",
+        "location": "Ischia, Italy",
+        "date": "1-4 July 2024",
+        "notification": "15 April 2024",
+        "final_version": "26 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "TACL",
+        "conference_link": "https://iiia.csic.es/tacl2024/",
+        "location": "Barcelona, Spain",
+        "date": "1-5 July 2024",
+        "notification": "20 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": "preceding summer school 25-28 June 2024"
+    },
+    {
+        "name": "IJCAR",
+        "conference_link": "https://ijcar2024.loria.fr/",
+        "location": "Nancy, France",
+        "date": "1-6 July 2024",
+        "notification": "28 March 2024",
+        "final_version": "28 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "IPCO",
+        "conference_link": "https://ipco2024.ii.uni.wroc.pl/",
+        "location": "Wroc\u0142aw, Poland",
+        "date": "3-5 July 2024",
+        "notification": "26 January 2024",
+        "final_version": "15 March 2024",
+        "early_registration": "31 March 2024",
+        "remarks": ""
+    },
+    {
+        "name": "LICS",
+        "conference_link": "https://lics.siglog.org/lics24/",
+        "location": "Tallinn, Estonia",
+        "date": "8-12 July 2024",
+        "notification": "15 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": "co-located with ICALP and FSCD"
+    },
+    {
+        "name": "ICALP",
+        "conference_link": "https://compose.ioc.ee/icalp2024/#icalp",
+        "location": "Tallinn, Estonia",
+        "date": "8-12 July 2024",
+        "notification": "14 April 2024",
+        "final_version": "28 April 2024",
+        "early_registration": "",
+        "remarks": "co-located with LICS and FSCD"
+    },
+    {
+        "name": "CiE",
+        "conference_link": "https://events.illc.uva.nl/CiE/CiE2024/",
+        "location": "Amsterdam, The Netherlands",
+        "date": "8-12 July 2024",
+        "notification": "20 April 2024",
+        "final_version": "1 May 2024",
+        "early_registration": "20 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "CSF",
+        "conference_link": "https://csf2024.ieee-security.org/",
+        "location": "Enschede, The Netherlands",
+        "date": "8-12 July 2024",
+        "notification": "7 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "ECMFA",
+        "conference_link": "https://conf.researchr.org/home/staf-2024/ecmfa-2024",
+        "location": "Enschede, The Netherlands",
+        "date": "8-12 July 2024",
+        "notification": "10 April 20245 June 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": "part of STAF"
+    },
+    {
+        "name": "ICGT",
+        "conference_link": "https://conf.researchr.org/home/icgt-2024",
+        "location": "Enschede, The Netherlands",
+        "date": "8-12 July 2024",
+        "notification": "23 April 2024",
+        "final_version": "14 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "FSCD",
+        "conference_link": "https://cs.ioc.ee/fscd24/",
+        "location": "Tallinn, Estonia",
+        "date": "10-13 July 2024",
+        "notification": "22 April 2024",
+        "final_version": "6 May 2024",
+        "early_registration": "",
+        "remarks": "co-located with ICALP and LICS"
+    },
+    {
+        "name": "GECCO",
+        "conference_link": "https://gecco-2024.sigevo.org/",
+        "location": "Melbourne, Australia",
+        "date": "14-18 July 2024",
+        "notification": "21 March 2024",
+        "final_version": "11 April 2024",
+        "early_registration": "10 May 2024",
+        "remarks": ""
+    },
+    {
+        "name": "ANTS",
+        "conference_link": "https://antsmath.org/ANTSXVI/",
+        "location": "Cambridge, Massachusetts, USA",
+        "date": "15-19 July 2024",
+        "notification": "April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "FOIS",
+        "conference_link": "https://www.utwente.nl/en/eemcs/fois2024/",
+        "location": "Enschede, The Netherlands",
+        "date": "8-9 July 2024 (online)15-19 July 2024 (on site)",
+        "notification": "10 May 2024",
+        "final_version": "",
+        "early_registration": "3 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "ISSAC",
+        "conference_link": "https://www.issac-conference.org/2024/",
+        "location": "Raleigh, North Carolina, USA",
+        "date": "16-19 July 2024",
+        "notification": "16/30 April 2024",
+        "final_version": "21 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "ICDCS",
+        "conference_link": "https://icdcs2024.icdcs.org/",
+        "location": "Jersey City, New Jersey, USA",
+        "date": "16-19 July 2024",
+        "notification": "12 April 2024",
+        "final_version": "10 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "ICML",
+        "conference_link": "https://icml.cc/",
+        "location": "Vienna, Austria",
+        "date": "21-27 July 2024",
+        "notification": "1 May 2024",
+        "final_version": "29 May 2024",
+        "early_registration": "15 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "AUTOMATA",
+        "conference_link": "https://automata2024.webspace.durham.ac.uk/",
+        "location": "Durham, United Kingdom",
+        "date": "22-24 July 2024",
+        "notification": "3 May 2024",
+        "final_version": "17 May 2024",
+        "early_registration": "21 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "CCC",
+        "conference_link": "https://computationalcomplexity.org/",
+        "location": "Ann Arbor, Michigan, USA",
+        "date": "22-25 July 2024",
+        "notification": "5 May 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "CAV",
+        "conference_link": "http://i-cav.org/2024/",
+        "location": "Montreal, Canada",
+        "date": "22-27 July 2024",
+        "notification": "26 March 202410 May 2024",
+        "final_version": "19 May 2024",
+        "early_registration": "",
+        "remarks": "submissions updated until 26 January 2024artifact submission: 8 April 2024 (mandatory for tool papers)"
+    },
+    {
+        "name": "SEA",
+        "conference_link": "https://sea2024.univie.ac.at/",
+        "location": "Vienna, Austria",
+        "date": "23-26 July 2024",
+        "notification": "27 March 2024",
+        "final_version": "28 April 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "TASE",
+        "conference_link": "https://tase2024.github.io/",
+        "location": "Guiyang, China",
+        "date": "29 July - 1 August 2024",
+        "notification": "10 April 2024",
+        "final_version": "10 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "IJCAI",
+        "conference_link": "https://ijcai24.org/",
+        "location": "Jeju Island, South Korea",
+        "date": "3-9 August 2024",
+        "notification": "22 February 202416 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": "appendix and resubmission until 24 January 2024"
+    },
+    {
+        "name": "CICM",
+        "conference_link": "https://cicm-conference.org/2024/",
+        "location": "Montr\u00e9al, Qu\u00e9bec, Canada",
+        "date": "5-9 August 2024",
+        "notification": "28 May 2024",
+        "final_version": "11 June 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "DLT",
+        "conference_link": "https://events.gwdg.de/event/576/",
+        "location": "G\u00f6ttingen, Germany",
+        "date": "12-16 August 2024",
+        "notification": "3 May 2024",
+        "final_version": "17 May 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "CRYPTO",
+        "conference_link": "https://crypto.iacr.org/2024/",
+        "location": "Santa Barbara, California, USA",
+        "date": "18-22 August 2024",
+        "notification": "7 April 20243 May 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "RAMiCS",
+        "conference_link": "https://ramics-conf.github.io/2024/",
+        "location": "Prague, Czech Republic",
+        "date": "19-23 August 2024",
+        "notification": "21 May 2024",
+        "final_version": "22 June 2024",
+        "early_registration": "",
+        "remarks": "co-located with AiML"
+    },
+    {
+        "name": "AiML",
+        "conference_link": "https://www.cs.cas.cz/aiml2024/",
+        "location": "Prague, Czech Republic",
+        "date": "19-23 August 2024",
+        "notification": "20 May 2024",
+        "final_version": "21 June 2024",
+        "early_registration": "",
+        "remarks": "co-located with RAMiCS"
+    },
+    {
+        "name": "SAT",
+        "conference_link": "http://satisfiability.org/SAT24/",
+        "location": "Pune, India",
+        "date": "21-24 August 2024",
+        "notification": "22 May 2024",
+        "final_version": "22 June 2024",
+        "early_registration": "",
+        "remarks": "preceded 18-20 August 2024 by Indian SAT+SMT School"
+    },
+    {
+        "name": "COCOON",
+        "conference_link": "https://anl.sjtu.edu.cn/cocoon2024/",
+        "location": "Shanghai, China",
+        "date": "23-25 August 2024",
+        "notification": "25 May 2024",
+        "final_version": "10 June 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "KDD",
+        "conference_link": "https://kdd2024.kdd.org/",
+        "location": "Barcelona, Spain",
+        "date": "25-29 August 2024",
+        "notification": "16 May 2024",
+        "final_version": "4 June 2024",
+        "early_registration": "10 July 2024",
+        "remarks": ""
+    },
+    {
+        "name": "Euro-Par",
+        "conference_link": "https://2024.euro-par.org/",
+        "location": "Madrid, Spain",
+        "date": "26-30 August 2024",
+        "notification": "29 April 2024",
+        "final_version": "2 June 2024",
+        "early_registration": "30 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "PATAT",
+        "conference_link": "https://patatconference2024.dtu.dk/",
+        "location": "Lyngby, Denmark",
+        "date": "27-30 August 2024",
+        "notification": "3 May 2024",
+        "final_version": "24 June 2024",
+        "early_registration": "24 June 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SCSS",
+        "conference_link": "https://www.scss-conference.org/",
+        "location": "Tokyo, Japan",
+        "date": "28-30 August 2024",
+        "notification": "1 May 2024",
+        "final_version": "15 June 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "ALGO",
+        "conference_link": "https://algo-conference.org/2024/",
+        "location": "Egham, United Kingdom",
+        "date": "2-6 September 2024",
+        "notification": "",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": "federated conference including ALGOCLOUD, ESA, IPEC, ATMOS, WABI"
+    },
+    {
+        "name": "ICFP",
+        "conference_link": "https://icfp24.sigplan.org/",
+        "location": "Milan, Italy",
+        "date": "2-7 September 2024",
+        "notification": "20 May 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "QEST",
+        "conference_link": "https://www.qest-formats.org/",
+        "location": "Calgary, Canada",
+        "date": "9-13 September 2024",
+        "notification": "31 May 2024",
+        "final_version": "17 June 2024",
+        "early_registration": "",
+        "remarks": "22 April artifact submission; co-located with FORMATS"
+    },
+    {
+        "name": "FORMATS",
+        "conference_link": "https://www.qest-formats.org/",
+        "location": "Calgary, Canada",
+        "date": "9-13 September 2024",
+        "notification": "31 May 2024",
+        "final_version": "17 June 2024",
+        "early_registration": "",
+        "remarks": "22 April artifact submission; co-located with QEST"
+    },
+    {
+        "name": "ITP",
+        "conference_link": "https://www.viam.science.tsu.ge/itp2024/",
+        "location": "Tbilisi, Georgia",
+        "date": "9-14 September 2024",
+        "notification": "20 May 2024",
+        "final_version": "10 June 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "SAFECOMP",
+        "conference_link": "https://www.safecomp2024.unifi.it/",
+        "location": "Florence, Italy",
+        "date": "17-20 September 2024",
+        "notification": "21 April 2024",
+        "final_version": "1 June 2024",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "CCS",
+        "conference_link": "https://www.sigsac.org/ccs/CCS2024/",
+        "location": "Salt Lake City, Utah, USA",
+        "date": "14-18 October 2024",
+        "notification": "3 April 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    },
+    {
+        "name": "FOCS",
+        "conference_link": "https://focs.computer.org/2024/",
+        "location": "Chicago, Illinois, USA",
+        "date": "27-30 October 2024",
+        "notification": "1 July 2024",
+        "final_version": "",
+        "early_registration": "",
+        "remarks": ""
+    }
+]

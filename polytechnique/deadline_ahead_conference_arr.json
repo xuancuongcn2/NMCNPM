@@ -1,0 +1,552 @@
+[
+    {
+        "name": "FM",
+        "conference_link": "https://www.fm24.polimi.it/",
+        "description": "Formal Methods",
+        "location": "Milan, Italy",
+        "deadline": "15/19 April 2024",
+        "date": "9-13 September 2024",
+        "notification": "10 June 2024",
+        "subformat_details": "LNCS, 15 pages regular, tool, and case study; 6 pages demonstration, 22 pages tutorial, all excluding references"
+    },
+    {
+        "name": "ARQNL",
+        "conference_link": "http://iltp.de/ARQNL-2024/",
+        "description": "Automated Reasoning in Quantified Non-Classical Logics",
+        "location": "Nancy, France",
+        "deadline": "15/22 April 2024",
+        "date": "2 July 2024",
+        "notification": "3 June 2024",
+        "subformat_details": "CEUR-WS,15 pages full, 8 pages short, 2 pages abstracts, all excluding references; co-located with IJCAR"
+    },
+    {
+        "name": "ThEdu",
+        "conference_link": "https://www.uc.pt/en/congressos/thedu/ThEdu24/",
+        "description": "Theorem proving components for Educational software",
+        "location": "Nancy, France",
+        "deadline": "17 April 2024",
+        "date": "2 July 2024",
+        "notification": "8 May 2024",
+        "subformat_details": "own format, 10 pages; co-located with IJCAR"
+    },
+    {
+        "name": "CP",
+        "conference_link": "https://cp2024.a4cp.org/",
+        "description": "Principles and Practice of Constraint Programming",
+        "location": "Girona, Catalonia, Spain",
+        "deadline": "18/23 April 2024",
+        "date": "2-6 September 2024",
+        "notification": "20 June 2024",
+        "subformat_details": "LIPIcs, 15 pages full, 8 pages short, both excluding references"
+    },
+    {
+        "name": "CIAA",
+        "conference_link": "http://www.math.akita-u.ac.jp/ciaa2024/",
+        "description": "Conference on Implementation and Application of Automata",
+        "location": "Akita, Japan",
+        "deadline": "19 April 2023",
+        "date": "3-6 September 2024",
+        "notification": "24 May 2023",
+        "subformat_details": "LNCS, 12 pages"
+    },
+    {
+        "name": "ICICS",
+        "conference_link": "https://icics2024.aegean.gr/",
+        "description": "International Conference on Information and Communications Security",
+        "location": "Mytilene, Lesvos, Greece",
+        "deadline": "19 April 2024",
+        "date": "26-28 August 2024",
+        "notification": "24 June 2024",
+        "subformat_details": "LNCS, 20 pages"
+    },
+    {
+        "name": "ECAI",
+        "conference_link": "https://www.ecai2024.eu/",
+        "description": "European Conference on Artificial Intelligence",
+        "location": "Santiago\u00a0de\u00a0Compostela,\u00a0Spain",
+        "deadline": "19/25 April 2024",
+        "date": "19-24 October 2024",
+        "notification": "4 July 2024",
+        "subformat_details": "own format, 7 pages + 1 page references"
+    },
+    {
+        "name": "PAAR",
+        "conference_link": "https://paar2024.github.io/",
+        "description": "Practical Aspects of Automated Reasoning",
+        "location": "Nancy, France",
+        "deadline": "19/26 April 2024",
+        "date": "2 July 2024",
+        "notification": "1 June 2024",
+        "subformat_details": "CEURART, 15 pages regular, 8 pages extended abstracts; co-located with IJCAR"
+    },
+    {
+        "name": "SC2",
+        "conference_link": "http://www.sc-square.org/CSA/workshop9.html",
+        "description": "Satisfiability Checking and Symbolic Computation",
+        "location": "Nancy, France",
+        "deadline": "19 April 20243 May 2024",
+        "date": "2 July 2024",
+        "notification": "17 May 2024",
+        "subformat_details": "CEUR-WG, 16 pages full, 4 pages extended abstracts, both excluding references, 2 pages presentation only; second deadline for ISSAC Fast-Track; co-located with IJCAR"
+    },
+    {
+        "name": "ESA",
+        "conference_link": "https://algo-conference.org/2024/esa/",
+        "description": "European Symposium on Algorithms",
+        "location": "Egham, United Kingdom",
+        "deadline": "22 April 2024",
+        "date": "2-4 September 2024",
+        "notification": "23 June 2024",
+        "subformat_details": "LIPIcs, double-blind, 12 pages excluding front matter and references; part of ALGO"
+    },
+    {
+        "name": "WADT",
+        "conference_link": "https://conf.researchr.org/home/wadt-2024",
+        "description": "Workshop on Algebraic Development Techniques",
+        "location": "Enschede, The Netherlands",
+        "deadline": "22 April 202416 September 2024",
+        "date": "during STAF",
+        "notification": "29 April 202425 November 2024",
+        "subformat_details": "second dates for post-proceedings"
+    },
+    {
+        "name": "LOD",
+        "conference_link": "https://lod2024.icas.events/",
+        "description": "Machine Learning, Optimization, Data Science",
+        "location": "Castiglione della Pescaia, Italy",
+        "deadline": "23 April 2024",
+        "date": "22-25 September 2024",
+        "notification": "23 May 2024",
+        "subformat_details": "LNCS, 15 pages long, 11 pages short"
+    },
+    {
+        "name": "SCN",
+        "conference_link": "http://scn.unisa.it",
+        "description": "Security and Cryptography for Networks",
+        "location": "Amalfi (SA), Italy",
+        "deadline": "24 April 2024",
+        "date": "11-13 September 2024",
+        "notification": "24 June 2024",
+        "subformat_details": "LNCS, 20 pages excluding references"
+    },
+    {
+        "name": "KR",
+        "conference_link": "https://kr.org/KR2024/",
+        "description": "Principles of Knowledge Representation and Reasoning",
+        "location": "Hanoi, Vietnam",
+        "deadline": "24 April / 1 May 2024",
+        "date": "2-8 November 2024",
+        "notification": "10 July 2024",
+        "subformat_details": "own format, 9 pages regular, 4 pages short, both excluding references; co-located with NMR"
+    },
+    {
+        "name": "UNIF",
+        "conference_link": "https://lat.inf.tu-dresden.de/unif2024/",
+        "description": "Workshop on Unification",
+        "location": "Nancy, France",
+        "deadline": "25 April 2024",
+        "date": "2 July 2024",
+        "notification": "23 May 2024",
+        "subformat_details": "EPiC, 5 pages; co-located with IJCAR"
+    },
+    {
+        "name": "FMICS",
+        "conference_link": "https://fmics.inria.fr/2024/",
+        "description": "Formal Methods for Industrial Critical Systems",
+        "location": "Milan, Italy",
+        "deadline": "25 April / 1 May 2024",
+        "date": "9-11 September 2024",
+        "notification": "10 June 2024",
+        "subformat_details": "LNCS, 15 pages excluding references; co-located with FM"
+    },
+    {
+        "name": "MFCS",
+        "conference_link": "http://www.mfcs.sk/",
+        "description": "Mathematical Foundations of Computer Science",
+        "location": "Bratislava, Slovakia",
+        "deadline": "26 April 2024",
+        "date": "26-30 August 2024",
+        "notification": "24 June 2024",
+        "subformat_details": "LIPIcs, 12 pages excluding references"
+    },
+    {
+        "name": "CILC",
+        "conference_link": "https://cilc2024.github.io/",
+        "description": "Italian Conference on Computational Logic",
+        "location": "Rome, Italy",
+        "deadline": "26 April 2024",
+        "date": "26-28 June 2024",
+        "notification": "22 May 2024",
+        "subformat_details": "CEURART, 15 pages full, 8 pages short"
+    },
+    {
+        "name": "FMCAD",
+        "conference_link": "https://fmcad.org/FMCAD24/",
+        "description": "Formal Methods in Computer-Aided Design",
+        "location": "Prague, Czech Republic",
+        "deadline": "28 April / 5 May 2024",
+        "date": "14-18 October 2024",
+        "notification": "8 July 2024",
+        "subformat_details": "own format, 8 pages long, 4 pages short, both excluding references"
+    },
+    {
+        "name": "CCS",
+        "conference_link": "https://www.sigsac.org/ccs/CCS2024/",
+        "description": "Computer and Communication Security",
+        "location": "Salt Lake City, Utah, USA",
+        "deadline": "29 April 2024",
+        "date": "14-18 October 2024",
+        "notification": "",
+        "subformat_details": "ACM, 12 pages excluding references"
+    },
+    {
+        "name": "ICLP",
+        "conference_link": "https://www.iclp24.utdallas.edu/",
+        "description": "International Conference on Logic Programming",
+        "location": "Dallas, Texas, USA",
+        "deadline": "29 April / 6 May 20248 July 2024",
+        "date": "11-17 October 2024",
+        "notification": "19 June 202422 July 2024",
+        "subformat_details": "TPLP, 14 pages regular;EPTCS, 7 pages short, 3 pages recently published, 3 pages system demonstrations, 3 pages birds of a feather"
+    },
+    {
+        "name": "SmartData",
+        "conference_link": "https://ieee-cybermatics.org/2024/smartdata/",
+        "description": "Smart Data",
+        "location": "Copenhagen, Denmark",
+        "deadline": "1 May 2024",
+        "date": "19-22 August 2024",
+        "notification": "1 June 2024",
+        "subformat_details": "IEEE Transactions, 8 pages regular, 6 pages workshop"
+    },
+    {
+        "name": "MATCH-UP",
+        "conference_link": "https://www.dcs.gla.ac.uk/research/algorithms/MATCHUP2024/",
+        "description": "Matching Under Preferences",
+        "location": "Oxford, United Kingdom",
+        "deadline": "1 May 2024",
+        "date": "9-11 September 2024",
+        "notification": "1 July 2024",
+        "subformat_details": "12 pages A4"
+    },
+    {
+        "name": "QUANTIFY",
+        "conference_link": "https://qbf24.pages.sai.jku.at/quantify/",
+        "description": "Workshop on Quantification",
+        "location": "Nancy, France",
+        "deadline": "1 May 2024",
+        "date": "1 July 2024",
+        "notification": "21 May 2024",
+        "subformat_details": "LNCS, 15 pages full and tutorial, 2 pages talk abstracts, all excluding references; co-located with IJCAR"
+    },
+    {
+        "name": "DSAA",
+        "conference_link": "https://dsaa2024.dsaa.co/",
+        "description": "Data Science and Advanced Analytics",
+        "location": "San Diego, California, USA",
+        "deadline": "2 May 2024",
+        "date": "6-10 October 2024",
+        "notification": "24 July 2024",
+        "subformat_details": "IEEE, 2 columns, 10 pages"
+    },
+    {
+        "name": "LOPSTR",
+        "conference_link": "https://lopstr.github.io/2024/",
+        "description": "Logic-Based Program Synthesis and Transformation",
+        "location": "Milan, Italy",
+        "deadline": "6/10 May 2024",
+        "date": "9-11 September 2024",
+        "notification": "26 June 2024",
+        "subformat_details": "LNCS,15 pages regular, 8 pages short, both excluding references; co-located with FM and PPDP"
+    },
+    {
+        "name": "PPDP",
+        "conference_link": "https://ppdp2024.github.io/",
+        "description": "Principles and Practice of Declarative Programming",
+        "location": "Milan, Italy",
+        "deadline": "6/13 May 2024",
+        "date": "9-11 September 2024",
+        "notification": "3 July 2024",
+        "subformat_details": "ACM, 2 column, 12 pages excluding references regular, 10 pages system descriptions, 5 pages including references experience reports; co-located with FM and LOPSTR"
+    },
+    {
+        "name": "DISC",
+        "conference_link": "https://www.disc-conference.org/wp/disc2024/",
+        "description": "Distributed Computing",
+        "location": "Madrid, Spain",
+        "deadline": "7/14 May 2024",
+        "date": "28\u00a0October\u00a0-\u00a01\u00a0November\u00a02024",
+        "notification": "2 August 2024",
+        "subformat_details": "LIPIcs, double-blind, no page limit, but only first 15 pages read, 15 pages excluding references in proceedings"
+    },
+    {
+        "name": "TAP",
+        "conference_link": "https://tapconference.github.io/2024/",
+        "description": "Tests and Proofs",
+        "location": "Milan, Italy",
+        "deadline": "8/15 May 2024",
+        "date": "9\u201310 September 2024",
+        "notification": "26 June 2024",
+        "subformat_details": "LNCS, 16 pages regular + tools + case studies, 6 pages short, all excluding references; co-located with FM"
+    },
+    {
+        "name": "FACS",
+        "conference_link": "https://facs-conference.github.io/2024/",
+        "description": "Formal Aspects of Component Software",
+        "location": "Milan, Italy",
+        "deadline": "8/15 May 2024",
+        "date": "9-10 September 2024",
+        "notification": "26 June 2024",
+        "subformat_details": "LNCS, 16 pages full, 6 pages short, 16 pages special tract, all excluding references; co-located with FM"
+    },
+    {
+        "name": "ADT",
+        "conference_link": "https://preflib.github.io/adt2024/",
+        "description": "Algorithmic Decision Theory",
+        "location": "Piscataway, New Jersey, USA",
+        "deadline": "10/17 May 2024",
+        "date": "14-16 October 2024",
+        "notification": "19 July 2024",
+        "subformat_details": "LNCS, 15 pages"
+    },
+    {
+        "name": "PoS",
+        "conference_link": "http://www.pragmaticsofsat.org/2024/",
+        "description": "Pragmatics of SAT",
+        "location": "Pune, India",
+        "deadline": "13/18 May 202427 May 20245 June 2024",
+        "date": "20 August 2024",
+        "notification": "23 June 2023",
+        "subformat_details": "CEURART, 1 column, 15 pages long, 8 pages short, both excluding references,8 pages competition solver description; 3rd deadline for SAT fast track, last deadline for competition solver descriptions; satellite event of SAT"
+    },
+    {
+        "name": "FedCSIS",
+        "conference_link": "https://2024.fedcsis.org/",
+        "description": "Federated Conference on Computer Science and Information Systems",
+        "location": "Belgrade, Serbia",
+        "deadline": "14 May 2024",
+        "date": "8-11 September 2024",
+        "notification": "18 June 2024",
+        "subformat_details": "own format, 12 pages full, 6 pages short, 8 pages communication"
+    },
+    {
+        "name": "WAIT",
+        "conference_link": "https://wait2024.github.io/",
+        "description": "Workshop on Automated (Co)Inductive Theorem Proving",
+        "location": "Nancy, France",
+        "deadline": "15 May 2024",
+        "date": "2 July 2024",
+        "notification": "1 June 2024",
+        "subformat_details": "EasyChair, 2 pages; co-located with IJCAR"
+    },
+    {
+        "name": "WABI",
+        "conference_link": "https://algo-conference.org/2024/wabi/",
+        "description": "Workshop on Algorithms in Bioinformatics",
+        "location": "Egham, United Kingdom",
+        "deadline": "19 May 2024",
+        "date": "2-4 September 2024",
+        "notification": "23 June 2024",
+        "subformat_details": "LIPIcs, 15 pages excluding front matter and references; part of ALGO"
+    },
+    {
+        "name": "SAGT",
+        "conference_link": "https://www.cwi.nl/en/groups/networks-and-optimization/events/sagt-2024/",
+        "description": "Symposium on Algorithmic Game Theory",
+        "location": "Amsterdam, The Netherlands",
+        "deadline": "21 May 2024",
+        "date": "3-6 September 2024",
+        "notification": "5 July 2024",
+        "subformat_details": "LNCS, 18 pages excluding references"
+    },
+    {
+        "name": "ICTAC",
+        "conference_link": "https://ictac2024.cs.ait.ac.th/",
+        "description": "International Colloquium on Theoretical Aspects of Computing",
+        "location": "Bangkok, Thailand",
+        "deadline": "14/21 June 2024",
+        "date": "25-29 November 2024",
+        "notification": "1 September 2024",
+        "subformat_details": "LNCS, 16 pages excluding references full, 8 pages short and tool"
+    },
+    {
+        "name": "GD",
+        "conference_link": "https://graphdrawing.github.io/gd2024//",
+        "description": "Graph Drawing",
+        "location": "Vienna, Austria",
+        "deadline": "31 May / 7 June 2024",
+        "date": "18-20 September 2024",
+        "notification": "20 July 2024",
+        "subformat_details": "LIPIcs with own LaTeX class, double-blind, 500 lines regular, 225 lines short, both excluding front matter and references"
+    },
+    {
+        "name": "LSFA",
+        "conference_link": "https://sites.google.com/ufg.br/lsfa2024",
+        "description": "Logical and Semantic Frameworks with Applications",
+        "location": "Goi\u00e2nia, Brazil",
+        "deadline": "31 May / 7 June 2024",
+        "date": "18-20 September 2024",
+        "notification": "",
+        "subformat_details": "EPTCS, 16 pages full, 6 pages short"
+    },
+    {
+        "name": "IOTSMS",
+        "conference_link": "https://emergingtechnet.org/IOTSMS2024/",
+        "description": "Internet of Things: Systems, Management and Security",
+        "location": "Malm\u00f6, Sweden",
+        "deadline": "1 June 2024",
+        "date": "2-5 September 2024",
+        "notification": "15 July 2024",
+        "subformat_details": "IEEE, 2 column, 8 pages full regular, 6 pages short, 3 pages posters and demos"
+    },
+    {
+        "name": "JAF",
+        "conference_link": "https://www.uni-passau.de/en/jaf",
+        "description": "Journ\u00e9es sur les Arithm\u00e9tiques Faibles",
+        "location": "Passau, Germany",
+        "deadline": "2 June 2024",
+        "date": "9-11 September 2024",
+        "notification": "2 July 2024",
+        "subformat_details": "3 pages"
+    },
+    {
+        "name": "iFM",
+        "conference_link": "https://ifm2024.cs.manchester.ac.uk/",
+        "description": "Integrated Formal Methods",
+        "location": "Manchester, UK",
+        "deadline": "3/10 June 2024",
+        "date": "13-15 November 2024",
+        "notification": "5 August 2024",
+        "subformat_details": "LNCS, 16 pages regular, 6 pages short"
+    },
+    {
+        "name": "SEFM",
+        "conference_link": "https://sefm-conference.github.io/2024/",
+        "description": "Software Engineering and Formal Methods",
+        "location": "Aveiro, Portugal",
+        "deadline": "7/14 June 2024",
+        "date": "4-8 November 2024",
+        "notification": "15 August 2024",
+        "subformat_details": "LNCS, 16 pages excludinge references regular, 8 pages tool"
+    },
+    {
+        "name": "MLCS",
+        "conference_link": "https://mlcs.lasige.di.fc.ul.pt/",
+        "description": "Machine Learning for Cybersecurity",
+        "location": "Vilnius, Lithuania",
+        "deadline": "15 June 2024",
+        "date": "9-13 September 2024",
+        "notification": "15 July 2024",
+        "subformat_details": "LNCS, 16 pages regular, 6 pages short"
+    },
+    {
+        "name": "WISE",
+        "conference_link": "https://wise2024-qatar.com/",
+        "description": "Web Information Systems Engineering",
+        "location": "Doha, Qatar",
+        "deadline": "20/30 June 2024",
+        "date": "2-5 December 2024",
+        "notification": "30 August 2024",
+        "subformat_details": "LNCS, double-blind, 15 pages"
+    },
+    {
+        "name": "TIME",
+        "conference_link": "https://www.lirmm.fr/time2024/",
+        "description": "Temporal Representation and Reasoning",
+        "location": "Montpellier, France",
+        "deadline": "21 June 2024",
+        "date": "28-30 October 2024",
+        "notification": "2 August 2024",
+        "subformat_details": "LIPIcs, 12 pages excluding references + 5 pages appendix"
+    },
+    {
+        "name": "LPNMR",
+        "conference_link": "https://lpnmr2024.demacs.unical.it/",
+        "description": "Logic Programming and Non-Monotonic Reasoning",
+        "location": "Dallas, Texas, USA",
+        "deadline": "21/28 June 2024",
+        "date": "11-14 October 2024",
+        "notification": "28 July 2024",
+        "subformat_details": "LNCS, 13 pages long, 6 pages short"
+    },
+    {
+        "name": "IPEC",
+        "conference_link": "https://algo-conference.org/2024/ipec/",
+        "description": "International Symposium on Parameterized and Exact Computation",
+        "location": "Egham, United Kingdom",
+        "deadline": "26/30 June 2024",
+        "date": "4-6 September 2024",
+        "notification": "5 August 2024",
+        "subformat_details": "LIPIcs, no page limit, but only first 12 pages read; part of ALGO"
+    },
+    {
+        "name": "ISAAC",
+        "conference_link": "https://sites.google.com/view/isaac2024/",
+        "description": "International Symposium on Algorithms and Computation",
+        "location": "Sydney, Australia",
+        "deadline": "28 June 2024",
+        "date": "8-12 December 2024",
+        "notification": "2 September 2024",
+        "subformat_details": "LIPIcs, double-blind, 12 pages excluding references"
+    },
+    {
+        "name": "ATMOS",
+        "conference_link": "https://algo-conference.org/2024/atmos/",
+        "description": "Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",
+        "location": "Egham, United Kingdom",
+        "deadline": "30 June 2024",
+        "date": "5-6 September 2024",
+        "notification": "31 July 2024",
+        "subformat_details": "OASIcs, 12 pages excluding references regular, 6 pages short; part of ALGO"
+    },
+    {
+        "name": "FSTTCS",
+        "conference_link": "https://www.fsttcs.org.in/2024/",
+        "description": "Foundations of Software Technology and Theoretical Computer Science",
+        "location": "Gandhinagar, Gujarat, India",
+        "deadline": "5 July 2024",
+        "date": "16-18 December 2024",
+        "notification": "16 September 2024",
+        "subformat_details": "LIPIcs, 15 pages excluding references"
+    },
+    {
+        "name": "NMR",
+        "conference_link": "https://nmr.krportal.org/2024/",
+        "description": "Non-Monotonic Reasoning",
+        "location": "Hanoi, Vietnam",
+        "deadline": "7/12 July 2024",
+        "date": "2-4 November 2024",
+        "notification": "1 September 2024",
+        "subformat_details": "CEUR, 10 pages including references full, 3 pages excluding referencesextended abstracts; co-located with KR"
+    },
+    {
+        "name": "TERMGRAPH",
+        "conference_link": "http://termgraph.org.uk/2024/",
+        "description": "Computing with Terms and Graphs",
+        "location": "post-proceedings",
+        "deadline": "1 August 2024",
+        "date": "7 April 2024",
+        "notification": "15\u00a0September\u00a02024",
+        "subformat_details": "EPTCS, 16 pages post-proceedings"
+    },
+    {
+        "name": "KDD",
+        "conference_link": "https://kdd2024.kdd.org/",
+        "description": "Knowledge Discovery and Data Mining",
+        "location": "???",
+        "deadline": "1/8 August 2024",
+        "date": "",
+        "notification": "",
+        "subformat_details": ""
+    },
+    {
+        "name": "WALCOM",
+        "conference_link": "https://tcsuestc.com/walcom2025",
+        "description": "International Conference and Workshops on Algorithms and Computation",
+        "location": "Chengdu, China",
+        "deadline": "22 September 2024",
+        "date": "28 February - 2 March 2025",
+        "notification": "8 November 2024",
+        "subformat_details": "LNCS, 14 pages"
+    }
+]

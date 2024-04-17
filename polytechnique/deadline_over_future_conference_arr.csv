@@ -1,0 +1,80 @@
+name,conference_link,location,date,notification,final_version,early_registration,remarks
+SDM,https://www.siam.org/conferences/cm/conference/sdm24,"Houston, Texas, USA",18-20 April 2023,late December 2023,,18 March 2024,
+RECOMB,https://recomb.org/recomb2024/,"Boston, Massachusetts, USA",29 April - 2 May 2024,22 December 2023,26 January 2024,15 March 2024,
+AAMAS,https://www.aamas2024-conference.auckland.ac.nz/,"Auckland, New Zealand",6-10 May 2024,20 December 2023,8 February 2024,11 April 2024,
+TAMC,https://tamc2024.comp.polyu.edu.hk/,"Hong Kong, SAR China",13-15 May 2024,1 February 2024,,31 March 2024,
+OLA,https://ola2024.sciencesconf.org/,"Dubrovnik, Croatia",13-15 May 2024,9 February 2024,,31 March 2024,early registration obligatory for authors
+FLOPS,https://conf.researchr.org/home/flops-2024,"Kumamoto, Japan",15-17 May 2024,26 January 2024,21 February 2024,30 April 2024,
+ISCO,https://eventos.ull.es/isco-2024,"Tenerife, Canary Islands, Spain",22-24 May 2024,15 March 2024,15 April 2024,31 March 2024,school 20-21 May 2024
+EUROCRYPT,https://eurocrypt.iacr.org/2024/,"Zurich, Switzerland",26-30 May 2024,8 December 202331 January 2024,,26 April 2024,
+LPAR,https://easychair.org/smart-program/LPAR2024/,Mauritius,26-31 May 2024,1 April 2024,5 April 2024,16 May 2024,
+SIROCCO,http://sirocco2024.di.unisa.it/,"Vietri sul Mare, Salerno, Italy",27-29 May 2024,28 January 2024,,31 March 2024,
+CPAIOR,https://sites.google.com/view/cpaior2024,"Uppsala, Sweden",28-31 May 2024,1 February 2024,,15 April 2024,
+ICAPS,https://icaps24.icaps-conference.org/,"Banf, Alberta, Canada",1-5 June 2024,12 February 2024,,31 March 2024,
+HALG,https://halg2024.ideas-ncbr.pl/,"Warsaw, Poland",3-5 June 2024,,25 May 2024,1 May 2024,
+NFM,https://conf.researchr.org/home/nfm-2024,"Moffett Field, California, USA",4-6 June 2024,16 February 2024,15 March 2024,,
+FUN,https://sites.google.com/unipi.it/fun2024/,"La Maddalena Island, Sardinia, Italy",4-8 June 2024,2 April 2024,15 April 2024,,
+SAND,https://www.ceid.upatras.gr/webpages/sand2024/,"Patras, Greece",5-7 June 2024,20 March 2024,2 April 2024,,
+SoCS,https://socs24.search-conference.org/,"Kananaskis, Alberta, Canada",6-8 June 2024,26 March 2024,10 April 2024,5 April 2024,
+PODS,https://2024.sigmod.org/,"Santiago, Chile",9-15 June 2024,4 March 2024,,30 April 2024,co-located with SIGMOD
+SIGMOD,https://2024.sigmod.org/,"Santiago, Chile",9-15 June 2024,23 February 2024,,30 April 2024,co-located with PODS
+SCAI,https://ju.se/samarbeta/event-och-konferenser/konferens/scai-symposium-2024/,"Jönköping, Sweden",10-11 June 2024,28 April 2024,12 May 2024,,
+WoLLIC,https://wollic2024.inf.unibe.ch/,"Bern, Switzerland",10-13 June 2024,15 April 2024,29 April 2024,10 May 2024,
+SoCG,http://socg24.athenarc.gr/,"Athens, Greece",11-14 June 2024,5 February 2024,20 March 2024,8 May 2024,
+SWAT,https://swat2024.github.io/website/,"Helsinki, Finland",12-14 June 2024,2 April 2024,,18 May 2024,
+SPAA,https://spaa.acm.org/,"Nantes, France",17-21 June 2024,7 April 2024,28 April 2024,,
+PODC,https://www.podc.org,"Nantes, France",17-21 June 2024,22 April 2024,,,
+DisCoTec,https://www.discotec.org/2024/,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,,"federated conference including COORDINATION, DAIS, and FORTE"
+COORDINATION,https://www.discotec.org/2024/coordination,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,,part of DisCoTec
+DAIS,https://www.discotec.org/2024/dais,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,,part of DisCoTec
+FORTE,https://www.discotec.org/2024/forte,"Groningen, The Netherlands",17-21 June 2024,5 April 2024,24 April 2024,,part of DisCoTec
+AofA,https://www.math.aau.at/AofA2024/,"Bath, United Kingdom",17-21 June 2024,28 April 2024,19 May 2024,3 May 2024,
+DL,https://dl2024.w.uib.no/,"Bergen, Norway",18-21 June 2024,8 May 2024,3 June 2024,21 May 2024,
+WG,https://conferences.famnit.upr.si/event/31/,"Gozd Martuljek, Slovenia",19-21 June 2024,19 April 2024,12 July 2024,30 April 2024,
+STOC,http://acm-stoc.org/stoc2024/,"Vancouver, Canada",24-28 June 2024,11 February 2024,31 March 2024,6 May 2024,
+CPM,https://cpm2024.github.io/,"Fukuoka, Japan",25-27 June 2024,10 April 2024,,,
+DCFS,https://sites.google.com/scu.edu/dcfs24/,"Santa Clara, California, USA",25-27 June 2024,26 April 2024,10 May 2024,,
+DEBS,https://2024.debs.org/,"Lyon, France",25-28 June 2024,12 April 202413 May 2024,24 May 2024,13 June 2024,
+LOFT,https://loftconference15.wordpress.com/,"Bayreuth, Germany",26-28 June 2024,beginning April,,,
+IWOCA,http://iwoca2024.di.unisa.it/,"Ischia, Italy",1-4 July 2024,15 April 2024,26 April 2024,,
+TACL,https://iiia.csic.es/tacl2024/,"Barcelona, Spain",1-5 July 2024,20 April 2024,,,preceding summer school 25-28 June 2024
+IJCAR,https://ijcar2024.loria.fr/,"Nancy, France",1-6 July 2024,28 March 2024,28 April 2024,,
+IPCO,https://ipco2024.ii.uni.wroc.pl/,"Wrocław, Poland",3-5 July 2024,26 January 2024,15 March 2024,31 March 2024,
+LICS,https://lics.siglog.org/lics24/,"Tallinn, Estonia",8-12 July 2024,15 April 2024,,,co-located with ICALP and FSCD
+ICALP,https://compose.ioc.ee/icalp2024/#icalp,"Tallinn, Estonia",8-12 July 2024,14 April 2024,28 April 2024,,co-located with LICS and FSCD
+CiE,https://events.illc.uva.nl/CiE/CiE2024/,"Amsterdam, The Netherlands",8-12 July 2024,20 April 2024,1 May 2024,20 May 2024,
+CSF,https://csf2024.ieee-security.org/,"Enschede, The Netherlands",8-12 July 2024,7 April 2024,,,
+ECMFA,https://conf.researchr.org/home/staf-2024/ecmfa-2024,"Enschede, The Netherlands",8-12 July 2024,10 April 20245 June 2024,,,part of STAF
+ICGT,https://conf.researchr.org/home/icgt-2024,"Enschede, The Netherlands",8-12 July 2024,23 April 2024,14 May 2024,,
+FSCD,https://cs.ioc.ee/fscd24/,"Tallinn, Estonia",10-13 July 2024,22 April 2024,6 May 2024,,co-located with ICALP and LICS
+GECCO,https://gecco-2024.sigevo.org/,"Melbourne, Australia",14-18 July 2024,21 March 2024,11 April 2024,10 May 2024,
+ANTS,https://antsmath.org/ANTSXVI/,"Cambridge, Massachusetts, USA",15-19 July 2024,April 2024,,,
+FOIS,https://www.utwente.nl/en/eemcs/fois2024/,"Enschede, The Netherlands",8-9 July 2024 (online)15-19 July 2024 (on site),10 May 2024,,3 June 2024,
+ISSAC,https://www.issac-conference.org/2024/,"Raleigh, North Carolina, USA",16-19 July 2024,16/30 April 2024,21 May 2024,,
+ICDCS,https://icdcs2024.icdcs.org/,"Jersey City, New Jersey, USA",16-19 July 2024,12 April 2024,10 May 2024,,
+ICML,https://icml.cc/,"Vienna, Austria",21-27 July 2024,1 May 2024,29 May 2024,15 June 2024,
+AUTOMATA,https://automata2024.webspace.durham.ac.uk/,"Durham, United Kingdom",22-24 July 2024,3 May 2024,17 May 2024,21 June 2024,
+CCC,https://computationalcomplexity.org/,"Ann Arbor, Michigan, USA",22-25 July 2024,5 May 2024,,,
+CAV,http://i-cav.org/2024/,"Montreal, Canada",22-27 July 2024,26 March 202410 May 2024,19 May 2024,,submissions updated until 26 January 2024artifact submission: 8 April 2024 (mandatory for tool papers)
+SEA,https://sea2024.univie.ac.at/,"Vienna, Austria",23-26 July 2024,27 March 2024,28 April 2024,,
+TASE,https://tase2024.github.io/,"Guiyang, China",29 July - 1 August 2024,10 April 2024,10 May 2024,,
+IJCAI,https://ijcai24.org/,"Jeju Island, South Korea",3-9 August 2024,22 February 202416 April 2024,,,appendix and resubmission until 24 January 2024
+CICM,https://cicm-conference.org/2024/,"Montréal, Québec, Canada",5-9 August 2024,28 May 2024,11 June 2024,,
+DLT,https://events.gwdg.de/event/576/,"Göttingen, Germany",12-16 August 2024,3 May 2024,17 May 2024,,
+CRYPTO,https://crypto.iacr.org/2024/,"Santa Barbara, California, USA",18-22 August 2024,7 April 20243 May 2024,,,
+RAMiCS,https://ramics-conf.github.io/2024/,"Prague, Czech Republic",19-23 August 2024,21 May 2024,22 June 2024,,co-located with AiML
+AiML,https://www.cs.cas.cz/aiml2024/,"Prague, Czech Republic",19-23 August 2024,20 May 2024,21 June 2024,,co-located with RAMiCS
+SAT,http://satisfiability.org/SAT24/,"Pune, India",21-24 August 2024,22 May 2024,22 June 2024,,preceded 18-20 August 2024 by Indian SAT+SMT School
+COCOON,https://anl.sjtu.edu.cn/cocoon2024/,"Shanghai, China",23-25 August 2024,25 May 2024,10 June 2024,,
+KDD,https://kdd2024.kdd.org/,"Barcelona, Spain",25-29 August 2024,16 May 2024,4 June 2024,10 July 2024,
+Euro-Par,https://2024.euro-par.org/,"Madrid, Spain",26-30 August 2024,29 April 2024,2 June 2024,30 June 2024,
+PATAT,https://patatconference2024.dtu.dk/,"Lyngby, Denmark",27-30 August 2024,3 May 2024,24 June 2024,24 June 2024,
+SCSS,https://www.scss-conference.org/,"Tokyo, Japan",28-30 August 2024,1 May 2024,15 June 2024,,
+ALGO,https://algo-conference.org/2024/,"Egham, United Kingdom",2-6 September 2024,,,,"federated conference including ALGOCLOUD, ESA, IPEC, ATMOS, WABI"
+ICFP,https://icfp24.sigplan.org/,"Milan, Italy",2-7 September 2024,20 May 2024,,,
+QEST,https://www.qest-formats.org/,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; co-located with FORMATS
+FORMATS,https://www.qest-formats.org/,"Calgary, Canada",9-13 September 2024,31 May 2024,17 June 2024,,22 April artifact submission; co-located with QEST
+ITP,https://www.viam.science.tsu.ge/itp2024/,"Tbilisi, Georgia",9-14 September 2024,20 May 2024,10 June 2024,,
+SAFECOMP,https://www.safecomp2024.unifi.it/,"Florence, Italy",17-20 September 2024,21 April 2024,1 June 2024,,
+CCS,https://www.sigsac.org/ccs/CCS2024/,"Salt Lake City, Utah, USA",14-18 October 2024,3 April 2024,,,
+FOCS,https://focs.computer.org/2024/,"Chicago, Illinois, USA",27-30 October 2024,1 July 2024,,,

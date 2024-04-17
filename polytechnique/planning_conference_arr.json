@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ALGOCLOUD",
+        "conference_link": "https://algo-conference.org/2024/algocloud/",
+        "year": "2024",
+        "location": "Egham, United Kingdom",
+        "starting_date": "2 September 2024",
+        "ending_date": "3 September 2024",
+        "remarks": "part of ALGO"
+    },
+    {
+        "name": "SYNASC",
+        "conference_link": "https://synasc.ro/2024/",
+        "year": "2024",
+        "location": "Timi\u015foara, Romania",
+        "starting_date": "16 September 2024",
+        "ending_date": "19 September 2024",
+        "remarks": ""
+    },
+    {
+        "name": "SPLASH",
+        "conference_link": "https://2024.splashcon.org/",
+        "year": "2024",
+        "location": "Pasadena, California, USA",
+        "starting_date": "20 October 2024",
+        "ending_date": "25 October 2024",
+        "remarks": "co-located with SAS"
+    },
+    {
+        "name": "ICALP",
+        "conference_link": "no-webpage-yet.html",
+        "year": "2025",
+        "location": "Aarhus, Denmark",
+        "starting_date": "7 July 2025",
+        "ending_date": "11 July 2025",
+        "remarks": ""
+    }
+]
