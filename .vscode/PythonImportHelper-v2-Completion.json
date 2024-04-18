@@ -36,6 +36,39 @@
         "documentation": {}
     },
     {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "NoSuchElementException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
         "label": "BeautifulSoup",
         "importPath": "bs4",
         "description": "bs4",
@@ -77,6 +110,24 @@
         "description": "ccfddl.ccfddl",
         "peekOfCode": "def write_csv(data, filename):\n    with open(filename, \"w\", newline='') as file:\n      writer = csv.writer(file)\n      # Ghi header\n      writer.writerow([\"Title\", \"Description\", \"Sub\", \"Rank\", \"DBLP\", \"Year\", \"ID\", \"Link\", \"Abstract Deadline\", \"Deadline\", \"Timezone\", \"Date\", \"Place\"])\n      # Ghi dữ liệu từ YAML vào CSV\n      for conference in data:\n          title = conference[\"title\"]\n          description = conference[\"description\"]\n          sub = conference[\"sub\"]",
         "detail": "ccfddl.ccfddl",
+        "documentation": {}
+    },
+    {
+        "label": "write_json",
+        "kind": 2,
+        "importPath": "ieecomputer.iee_computer",
+        "description": "ieecomputer.iee_computer",
+        "peekOfCode": "def write_json(data, filename):\n    with open(filename, 'w', encoding=\"utf-8\") as file:\n        json.dump(data, file, indent=4)\ndef write_csv(data, filename):\n    with open(filename, 'w', newline='',encoding=\"utf-8\") as csvfile:\n        fieldnames = data[0].keys()\n        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)\n        writer.writeheader()\n        writer.writerows(data)\nif __name__ == \"__main__\":",
+        "detail": "ieecomputer.iee_computer",
+        "documentation": {}
+    },
+    {
+        "label": "write_csv",
+        "kind": 2,
+        "importPath": "ieecomputer.iee_computer",
+        "description": "ieecomputer.iee_computer",
+        "peekOfCode": "def write_csv(data, filename):\n    with open(filename, 'w', newline='',encoding=\"utf-8\") as csvfile:\n        fieldnames = data[0].keys()\n        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)\n        writer.writeheader()\n        writer.writerows(data)\nif __name__ == \"__main__\":\n  ##Trình duyệt web la Firefox\n  driver = webdriver.Firefox()\n  ##ngày tháng năm bắt đầu lấy các sự kiện ",
+        "detail": "ieecomputer.iee_computer",
         "documentation": {}
     },
     {
