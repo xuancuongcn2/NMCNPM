@@ -181,8 +181,7 @@
                 "link": "http://www.prcv.cn/",
                 "timeline": [
                     {
-                        "abstract deadline": "2024-04-18 23:59:59",
-                        "deadline": "2024-04-28 23:59:59"
+                        "deadline": "2024-04-15 23:59:59"
                     }
                 ],
                 "timezone": "UTC+8",
@@ -1366,12 +1365,7 @@
                 "link": "http://icics2024.aegean.gr/",
                 "timeline": [
                     {
-                        "deadline": "2024-02-16 23:59:59",
-                        "comment": "First Cycle"
-                    },
-                    {
-                        "deadline": "2024-04-19 23:59:59",
-                        "comment": "Second Cycle"
+                        "deadline": "2024-02-02 23:59:59"
                     }
                 ],
                 "timezone": "AoE",
@@ -1596,24 +1590,6 @@
                 "timezone": "UTC+1",
                 "date": "September 27-29, 2023",
                 "place": "Marrakech, Morocco"
-            },
-            {
-                "year": 2024,
-                "id": "srds24",
-                "link": "https://srds-conference.org/",
-                "timeline": [
-                    {
-                        "deadline": "2024-04-26 23:59:59",
-                        "comment": "ABSTRACT"
-                    },
-                    {
-                        "deadline": "2024-05-03 23:59:59",
-                        "comment": "FULL PAPER"
-                    }
-                ],
-                "timezone": "AoE",
-                "date": "September 30-October 4, 2024",
-                "place": "Charlotte, USA"
             }
         ]
     },
@@ -4868,52 +4844,6 @@
                 "timezone": "UTC-7",
                 "date": "August 25-29, 2024",
                 "place": "Guangzhou, China (and hybrid)"
-            },
-            {
-                "year": 2025,
-                "id": "vldb25",
-                "link": "http://www.vldb.org/2025/",
-                "timeline": [
-                    {
-                        "deadline": "2024-04-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-05-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-06-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-07-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-08-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-09-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-10-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-11-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2024-12-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2025-01-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2025-02-01 17:00:00"
-                    },
-                    {
-                        "deadline": "2025-03-01 17:00:00"
-                    }
-                ],
-                "timezone": "UTC-7",
-                "date": "TBD",
-                "place": "London, United Kingdom"
             }
         ]
     },
@@ -6180,29 +6110,6 @@
                 "timezone": "AoE",
                 "date": "January 17-19, 2024",
                 "place": "London, United Kingdom"
-            }
-        ]
-    },
-    {
-        "title": "APSys",
-        "description": "ACM SIGOPS Asia-Pacific Workshop on Systems",
-        "sub": "SE",
-        "rank": "N",
-        "dblp": "apsys",
-        "confs": [
-            {
-                "year": 2024,
-                "id": "apsys2024",
-                "link": "https://apsys2024.github.io/",
-                "timeline": [
-                    {
-                        "abstract_deadline": "2024-04-25 23:59:00",
-                        "deadline": "2024-05-02 23:59:00"
-                    }
-                ],
-                "timezone": "AoE",
-                "date": "September 4-5, 2024",
-                "place": "Kyoto, Japan"
             }
         ]
     },
@@ -7475,8 +7382,8 @@
                 "link": "https://icpp2024.org/",
                 "timeline": [
                     {
-                        "abstract_deadline": "2024-04-22 23:59:59",
-                        "deadline": "2024-04-29 23:59:59"
+                        "abstract_deadline": "2024-04-08 23:59:59",
+                        "deadline": "2024-04-15 23:59:59"
                     }
                 ],
                 "timezone": "AoE",

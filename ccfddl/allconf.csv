@@ -7,7 +7,7 @@ IEEE VR,IEEE Virtual Reality,CG,A,vr,2024,vr24,http://ieeevr.org/2024/,2023-09-2
 ICMR,ACM SIGMM International Conference on Multimedia Retrieval,CG,B,mir,2024,icmr24,https://icmr2024.org/index.html,,2024-02-01 23:59:59,UTC-12,"June 11-13, 2024","Phuket, Thailand"
 Eurographics,Eurographics,CG,B,eurographics,2024,eg24,https://eg2024.cyens.org.cy/,2023-09-28 23:59:59,2023-10-05 23:59:59,UTC,"April 22-26, 2024","Limassol, Cyprus"
 PRCV,Chinese Conference on Pattern Recognition and Computer Vision,CG,C,prcv,2023,prcv23,https://prcv2023.xmu.edu.cn/,,2023-06-20 23:59:59,UTC+8,"Oct 13-15, 2023","Xiamen, China"
-PRCV,Chinese Conference on Pattern Recognition and Computer Vision,CG,C,prcv,2024,prcv24,http://www.prcv.cn/,,2024-04-28 23:59:59,UTC+8,"Oct 18-20, 2024","Urumchi, China"
+PRCV,Chinese Conference on Pattern Recognition and Computer Vision,CG,C,prcv,2024,prcv24,http://www.prcv.cn/,,2024-04-15 23:59:59,UTC+8,"Oct 18-20, 2024","Urumchi, China"
 PG,"Pacific Graphics, The Pacific Conference on Computer Graphics and Applications",CG,B,pg,2023,pg23,https://pg2023.org/,2023-06-01 23:59:59,2023-06-06 23:59:59,AoE,"October 10-13, 2023","Daejeon, South Korea"
 MMAsia,ACM Multimedia Asia,CG,C,mmasia,2023,mmasia23,http://www.mmasia2023.org/,,2023-07-22 23:59:59,AoE,"December 06-08, 2023","Tainan, Taiwan"
 ACM MM,ACM International Conference on Multimedia,CG,A,mm,2021,mm21,https://2021.acmmm.org/,2021-04-10 23:59:59,2021-04-17 23:59:59,AoE,"October 21-24, 2021","Chengdu, China"
@@ -67,7 +67,7 @@ IFIP WG 11.9,IFIP WG 11.9 International Conference on Digital Forensics,SC,C,NO 
 INDOCRYPT,International Conference on Cryptology in India,SC,C,indocrypt,2023,indocrypt23,https://crsind.in/indocrypt2023/,,2023-09-01 23:59:59,UTC-12,"December 10-13, 2023","BITS Pilani Goa, India"
 ICICS,International Conference on Information and Communications Security,SC,C,icics,2021,icics21,https://icics.cn/,,2021-05-22 23:59:59,AoE,"September 17-19, 2021","Chongqing, China"
 ICICS,International Conference on Information and Communications Security,SC,C,icics,2023,icics23,https://icics23.nankai.edu.cn/,,2023-03-30 23:59:59,AoE,"November 18-20, 2023","Nankai University, Tianjin, China"
-ICICS,International Conference on Information and Communications Security,SC,C,icics,2024,icics24,http://icics2024.aegean.gr/,,2024-02-16 23:59:59,AoE,"August 26-28, 2024","Mytilene, Greece"
+ICICS,International Conference on Information and Communications Security,SC,C,icics,2024,icics24,http://icics2024.aegean.gr/,,2024-02-02 23:59:59,AoE,"August 26-28, 2024","Mytilene, Greece"
 ACISP,Australasia Conference on Information Security and Privacy,SC,C,acisp,2021,acisp21,https://data61dsslab.github.io/acisp2021/,,2021-02-25 23:59:59,AoE,"December 1-3, 2021","Perth, Australia"
 ACISP,Australasia Conference on Information Security and Privacy,SC,C,acisp,2024,acisp24,https://www.acisp24.com/,,2023-11-06 23:59:59,AoE,"July 15-17, 2024",Australia
 CRYPTO,International Cryptology Conference,SC,A,crypto,2021,crypto21,https://crypto.iacr.org/2021/,,2021-02-24 21:00:00,UTC-12,"August 15-19, 2021",Virtual
@@ -79,7 +79,6 @@ AsiaCCS,Asia Conference on Computer and Communications Security,SC,C,ccs,2022,as
 AsiaCCS,Asia Conference on Computer and Communications Security,SC,C,ccs,2024,asiaccs24,https://asiaccs2024.sutd.edu.sg/,,2023-08-21 23:59:59,AoE,"July 1-5, 2024",Singapore
 SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2021,srds21,https://srds-conference.org/,,2021-04-16 23:59:59,AoE,"September 20-23, 2021",Virtual
 SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2023,srds23,https://srds-conference.org/,,2023-04-15 23:59:59,UTC+1,"September 27-29, 2023","Marrakech, Morocco"
-SRDS,IEEE International Symposium on Reliable Distributed Systems,SC,B,srds,2024,srds24,https://srds-conference.org/,,2024-04-26 23:59:59,AoE,"September 30-October 4, 2024","Charlotte, USA"
 CT-RSA,Cryptographer's Track at RSA Conference,SC,C,ctrsa,2022,ct-rsa22,https://ct-rsa-2022.auckland.ac.nz/,,2021-09-13 23:59:59,UTC-12,"February 07-10 , 2022","San Francisco, CA, USA"
 CT-RSA,Cryptographer's Track at RSA Conference,SC,C,ctrsa,2024,ct-rsa24,https://ct-rsa-2024.aau.at/,,2023-10-02 23:59:59,UTC-12,"May 06-09 , 2024","San Francisco, CA, USA"
 DIMVA,Detection of Intrusions and Malware & Vulnerability Assessment,SC,C,dimva,2021,dimva21,https://dimva2021.campus.ciencias.ulisboa.pt/,,2021-03-01 23:59:59,AoE,"July 14-16 , 2022",Virtual
@@ -245,7 +244,6 @@ VLDB,International Conference on Very Large Data Bases,DB,A,vldb,2021,vldb21,htt
 VLDB,International Conference on Very Large Data Bases,DB,A,vldb,2022,vldb22,http://www.vldb.org/2022/,,2021-04-01 17:00:00,UTC-7,"September 05-09, 2022","Sydney, Australia"
 VLDB,International Conference on Very Large Data Bases,DB,A,vldb,2023,vldb23,http://www.vldb.org/2023/,,2022-04-01 17:00:00,UTC-7,"August 28 - September 01, 2023","Vancouver, Canada"
 VLDB,International Conference on Very Large Data Bases,DB,A,vldb,2024,vldb24,http://www.vldb.org/2024/,,2023-04-01 17:00:00,UTC-7,"August 25-29, 2024","Guangzhou, China (and hybrid)"
-VLDB,International Conference on Very Large Data Bases,DB,A,vldb,2025,vldb25,http://www.vldb.org/2025/,,2024-04-01 17:00:00,UTC-7,TBD,"London, United Kingdom"
 ECML-PKDD,European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases,DB,B,pkdd,2021,ecmlpkdd21,https://2021.ecmlpkdd.org/,2021-03-26 23:59:59,2021-04-02 23:59:59,AoE,"September 13-17, 2021",Virtual
 ECML-PKDD,European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases,DB,B,pkdd,2022,ecmlpkdd22,https://2022.ecmlpkdd.org/index.php/key-dates-deadlines/,2022-03-30 23:59:59,2022-04-06 23:59:59,AoE,"September 19-23, 2022","Grenoble, France"
 ECML-PKDD,European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases,DB,B,pkdd,2023,ecmlpkdd23,https://2023.ecmlpkdd.org/submissions/key-dates-deadlines/,2023-03-26 23:59:59,2023-04-02 23:59:59,AoE,"September 18-22, 2023","Turin, Italy"
@@ -310,7 +308,6 @@ SAS,International Static Analysis Symposium,SE,B,sas,2022,sas22,https://2022.spl
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2022,popl22,https://popl22.sigplan.org/,,2021-07-08 23:59:59,AoE,"January 16-22, 2022",Westin Philadelphia
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2023,popl23,https://popl23.sigplan.org/,,2022-07-07 23:59:59,AoE,"January 15-21, 2023","Boston, Massachusetts, United States"
 POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,SE,A,popl,2024,popl24,https://popl24.sigplan.org/,,2023-07-11 23:59:59,AoE,"January 17-19, 2024","London, United Kingdom"
-APSys,ACM SIGOPS Asia-Pacific Workshop on Systems,SE,N,apsys,2024,apsys2024,https://apsys2024.github.io/,2024-04-25 23:59:00,2024-05-02 23:59:00,AoE,"September 4-5, 2024","Kyoto, Japan"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2022,issta22,https://conf.researchr.org/home/issta-2022,,2022-01-28 23:59:59,AoE,"July 18-22, 2022","Daejeon, South Korea"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2023,issta23,https://conf.researchr.org/home/issta-2023,,2022-11-10 23:59:59,AoE,"July 17-21, 2023","Seattle, United States"
 ISSTA,ACM SIGSOFT International Symposium on Software Testing and Analysis,SE,A,sigsoft,2024,issta24,https://conf.researchr.org/home/issta-2024,,2023-12-15 23:59:59,AoE,"September 16-20, 2024","Vienna, Austria"
@@ -372,7 +369,7 @@ SoCC,ACM Symposium on Cloud Computing,DS,B,socc,2023,socc23,https://acmsocc.org/
 ICPP,International Conference on Parallel Processing,DS,B,icpp,2021,icpp21,https://oaciss.uoregon.edu/icpp21/,,2021-04-16 23:59:59,AoE,"August 9-12, 2021","Chicago, USA"
 ICPP,International Conference on Parallel Processing,DS,B,icpp,2022,icpp22,https://icpp22.gitlabpages.inria.fr/,2022-04-08 23:59:59,2022-04-14 23:59:59,AoE,"August 29-Sept 12, 2022","Bordeaux, France"
 ICPP,International Conference on Parallel Processing,DS,B,icpp,2023,icpp23,https://icpp23.sci.utah.edu/,,2023-04-14 23:59:59,AoE,"August 7-August 10, 2023","Salt Lake City, UTAH, USA"
-ICPP,International Conference on Parallel Processing,DS,B,icpp,2024,icpp24,https://icpp2024.org/,2024-04-22 23:59:59,2024-04-29 23:59:59,AoE,"August 12-15, 2024","Gotland, Sweden"
+ICPP,International Conference on Parallel Processing,DS,B,icpp,2024,icpp24,https://icpp2024.org/,2024-04-08 23:59:59,2024-04-15 23:59:59,AoE,"August 12-15, 2024","Gotland, Sweden"
 ICDCS,IEEE International Conference on Distributed Computing Systems,DS,B,icdcs,2020,icdcs20,https://icdcs2020.sg/,2020-01-06 23:59:59,2020-01-13 23:59:59,UTC-7,"July 8-10, 2020",Singapore
 ICDCS,IEEE International Conference on Distributed Computing Systems,DS,B,icdcs,2021,icdcs21,https://icdcs2021.us/,2021-01-06 23:59:59,2021-01-13 23:59:59,UTC-5,"July 7-10, 2021",Virtual
 ICDCS,IEEE International Conference on Distributed Computing Systems,DS,B,icdcs,2022,icdcs22,https://icdcs2022.icdcs.org/,2022-01-24 23:59:59,2022-01-31 23:59:59,UTC-5,"July 10-13, 2022","Bologna, Italy"
